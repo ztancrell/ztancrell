@@ -16,11 +16,6 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 | [**Example**](https://example.com) | Example |
 
 ## Contact Me
-- **Email:** <script type="text/javascript">
-document.write("<a href='mailto:" + "zach" + "." + "tancrell" + "@" + "protonmail" + ".com" + "'>");
-document.write("zach.tancrell@protonmail.com");
-document.write("</a>");
-</script>
-<sup>please don't spam me >:(</sup>
+- **Email:** <a href="mailto:&zach;&#46;tancrell&#64;protonmail&#46;com">zach&#46;tancrell&#64;protonmail&#46;com</a> -- <sup>please don't spam me >:(</sup>
 - **LinkedIn:** [@zacharytancrell](https://www.linkedin.com/in/zacharytancrell/)
 - **Github:** [@ztancrell](https://www.github.com/ztancrell)
