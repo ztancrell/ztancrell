@@ -8,8 +8,8 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 - **Tools:** Windows, Linux, and many many more.
 
 ## Projects
-- [**ModelM-WinKeyFix**](/ModelM-WinKeyFix)
-- [**NoAfkGTA**](/NoAfkGTA)
+- [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix)
+- [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA)
 - 
 
 ## Contact Me
