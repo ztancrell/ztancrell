@@ -9,10 +9,11 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 
 ## Projects
 
-| Project | Language | Description |
-| --- | --- | --- |
-| [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | Brief description |
-| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | Brief description |
+| Project | Language |
+| --- | --- |
+| [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey |
+| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey |
+| [**Example**](https://example.com) | Example |
 
 ## Contact Me
 - **Email:** zach.tancrell@protonmail.com
