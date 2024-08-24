@@ -7,7 +7,12 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 - **Languages:** Python, AutoHotkey, C#, and many many more.
 - **Tools:** Windows, Linux, and many many more.
 
+## Projects
+- [**ModelM-WinKeyFix**](/ztancrell/ModelM-WinKeyFix)
+- [**NoAfkGTA**](/ztancrell/NoAfkGTA)
+- 
+
 ## Contact Me
-- **Email:** (zach.tancrell@protonmail.com)
+- **Email: ** [please do not spam me](zach.tancrell@protonmail.com)
 - **LinkedIn:** [@zacharytancrell](https://www.linkedin.com/in/zacharytancrell/)
 - **Github:** [@ztancrell](https://www.github.com/ztancrell)
