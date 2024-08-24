@@ -28,7 +28,3 @@ Work In Progress...
 Email: [zach.tancrell@protonmail.com]
 
 LinkedIn: [https://www.linkedin.com/zacharytancrell]
-
-[ztancrell@github] ~ $ stats
-
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/ztancrell/count.svg)
