@@ -8,6 +8,6 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 - **Tools:** Windows, Linux, and many many more.
 
 ## Contact Me
-- **Email:** [zach.tancrell@protonmail.com]
-- **LinkedIn:** [https://www.linkedin.com/zacharytancrell]
-- **GitHub:** [@ztancrell]
+- **Email:** [[protonmail](zach.tancrell@protonmail.com)]
+- [[**LinkedIn:**](https://www.linkedin.com/in/zacharytancrell/)]
+- **Github:** [[@ztancrell](https://www.github.com/ztancrell)]
