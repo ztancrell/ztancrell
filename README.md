@@ -13,6 +13,6 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 - 
 
 ## Contact Me
-- **Email: ** [please do not spam me](zach.tancrell@protonmail.com)
+- **Email:** zach.tancrell@protonmail.com
 - **LinkedIn:** [@zacharytancrell](https://www.linkedin.com/in/zacharytancrell/)
 - **Github:** [@ztancrell](https://www.github.com/ztancrell)
