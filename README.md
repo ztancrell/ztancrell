@@ -1,16 +1,24 @@
-## Hi there 👋
+[ztancrell@github] ~ $ whoami
+Zach Tancrell
 
-<!--
-**ztancrell/ztancrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ztancrell@github] ~ $ aboutme
+Linux enthusiast, cybersecurity enthusiast, programmer, and PC gamer. Retro tech aficionado, particularly vintage keyboards like the IBM Model M.
 
-Here are some ideas to get you started:
+[ztancrell@github] ~ $ projects
+NoAfkGTA 
+  - AutoHotkey
+  - Prevents AFK timeouts in GTA V Online
+ModelM
+  - Allows Model M users to be able to access the Windows key
+[Project 3] - Brief description of project 3
+[Project 4] - Brief description of project 4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ztancrell@github] ~ $ skills
+Work In Progress...
+
+[yourname@github] ~ $ contact
+Email: [zach.tancrell@protonmail.com]
+LinkedIn: [https://www.linkedin.com/zacharytancrell]
+
+[ztancrell@github] ~ $ stats
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/ztancrell/count.svg)
