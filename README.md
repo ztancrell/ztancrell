@@ -8,9 +8,43 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 - **Tools:** Windows, Linux, and many many more.
 
 ## Projects
+### AutoHotkey
 - [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix)
 - [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA)
+
+### GNU Bash
 - 
+
+### C
+- 
+
+### C#
+-
+
+### C++
+- 
+
+### CSS
+- 
+
+### Java
+- 
+
+### Javascript
+- 
+
+### Powershell
+- 
+
+### Python
+- 
+
+### Rust
+- 
+
+### userscripts
+-
+
 
 ## Contact Me
 - **Email:** zach.tancrell@protonmail.com
