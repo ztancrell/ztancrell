@@ -1,15 +1,6 @@
 # Hello, I'm Zach! 👋
 I'm a passionate Linux and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service.
 
-## 📋 Table of Contents
-- [Hello, I'm Zach!](#hello-im-zach)
-- [🛠️ Skills](#skills)
-- [📂 Projects](#projects)
-- [🎯 Interests](#interests)
-- [🏆 Achievements](#achievements)
-- [🚀 Let's Collaborate!](#lets-collaborate)
-- [📬 Contact Me](#contact-me)
-
 ## 🛠️ Skills
 - **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square)
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
