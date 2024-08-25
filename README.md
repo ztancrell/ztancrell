@@ -17,4 +17,4 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 - 🐙 [GitHub](https://www.github.com/ztancrell)
 
 ## Interests
-In my free time, I enjoy exploring new technologies, contributing to open-source projects, explorin cyber security, and learning about system architecture.
+In my free time, I enjoy exploring new technologies, contributing to open-source projects, and learning about system architecture.
