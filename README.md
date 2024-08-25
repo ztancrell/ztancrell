@@ -1,20 +1,17 @@
-# Hi there, I'm Zach! 👋
-
-## About Me
-I'm a passionate enthusiast who loves working with Linux and open-source software. I enjoy coding, learning new technologies, and contributing to the community.
+## Hello, I'm Zach! 👋
+I'm a passionate Linux and open-source enthusiast, dedicated to coding and community contributions.
 
 ## Skills
-- **Languages:** Python, AutoHotkey, C#, and many many more.
-- **Tools:** Windows, Linux, and many many more.
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3.9-blue) ![C#](https://img.shields.io/badge/C%23-7.0-purple) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-1.1-green)
+- **Tools:** ![Linux](https://img.shields.io/badge/Linux-5.10-orange) ![Windows](https://img.shields.io/badge/Windows-10-blue)
 
 ## Projects
-
-| Project | Language |
-| --- | --- |
-| [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey |
-| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey |
+| Project | Language | Description |
+| --- | --- | --- |
+| [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
+| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA games. |
 
 ## Contact Me
-- **Email:** <a href="mailto:&zach;&#46;tancrell&#64;protonmail&#46;com">zach&#46;tancrell&#64;protonmail&#46;com</a> -- <sup>please don't spam me >:(</sup>
-- **LinkedIn:** [@zacharytancrell](https://www.linkedin.com/in/zacharytancrell/)
-- **Github:** [@ztancrell](https://www.github.com/ztancrell)
+- 📧 [Email](mailto:zach.tancrell@protonmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zacharytancrell/)
+- 🐙 [GitHub](https://www.github.com/ztancrell)
