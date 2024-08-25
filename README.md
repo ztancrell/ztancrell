@@ -13,7 +13,6 @@ I'm a passionate enthusiast who loves working with Linux and open-source softwar
 | --- | --- |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey |
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey |
-| [**Example**](https://example.com) | Example |
 
 ## Contact Me
 - **Email:** <a href="mailto:&zach;&#46;tancrell&#64;protonmail&#46;com">zach&#46;tancrell&#64;protonmail&#46;com</a> -- <sup>please don't spam me >:(</sup>
