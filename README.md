@@ -10,7 +10,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | --- | --- | --- |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA games. |
-| [**MinecraftAHK**]([https](https://github.com/ztancrell/MinecraftAHK)) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
+| [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
 
 ## 🎯 Interests
 In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
