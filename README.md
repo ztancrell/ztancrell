@@ -12,7 +12,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA games. |
 | [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
 | [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) | AutoHotkey | Automated gear collection for ShellShock Live. |
-| [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS |  AuroraFX is a customChrome.css modification for ZapsCoolPhotonTheme. |
+| [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS |  AuroraFX is a customChrome.css modification for [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. |
 
 ## 🎯 Interests
 In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
