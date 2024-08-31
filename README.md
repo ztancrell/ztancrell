@@ -5,7 +5,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 - **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square)
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
 
-## 📂 Projects <s>Soon™️</s>
+## 📂 Projects <sup>Soon™️</sup>
 | Project | Language | Description |
 | --- | --- | --- |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
