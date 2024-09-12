@@ -9,7 +9,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | Project | Language | Description |
 | --- | --- | --- |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
-| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA games. |
+| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA Online. |
 | [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
 | [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) | AutoHotkey | Automated gear collection for ShellShock Live. |
 | [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS |  AuroraFX is a customChrome.css modification for [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. |
