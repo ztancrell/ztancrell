@@ -26,7 +26,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## Crypto Donations
 
-[My donation addresses](CRYPTO.MD)
+[My donation addresses](CRYPTO.md)
 
 ## 📬 Contact Me
 - 📧 [Email](mailto:zach.tancrell@protonmail.com)
