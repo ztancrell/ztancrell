@@ -24,7 +24,7 @@ In my free time, I enjoy exploring new technologies, contributing to open-source
 ## 🚀 Let's Collaborate!
 I'm always open to collaborating on interesting projects. If you have an idea or project in mind, feel free to reach out!
 
-## Crypto Donations
+## Donations
 
 [View my crypto addresses](CRYPTO.md)
 
