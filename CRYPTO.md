@@ -12,7 +12,7 @@ If you'd like to donate, here are my crypto addresses:
 ---
 
 **Bitcoin (BTC)**     : `bc1q2jh9lrdmulchhlv8k0zm67rldavxnu9tngk85x`  
-**Bitcoin Cash (BCH)**: `bitcoincash:qpjpqwu6kzk4entpsrj9xvceftn7y76pxc6gzk594y`  
+**Bitcoin Cash (BCH)**: `qpjpqwu6kzk4entpsrj9xvceftn7y76pxc6gzk594y`  
 **Litecoin (LTC)**    : `ltc1q7smw9f6r967pndzxrpczfluda6dwqxqqhana9n`  
 **Ethereum (ETH)**    : `0x8F6263F99DA8D7978c3b295EB9dd28D51512e45D`  
 
