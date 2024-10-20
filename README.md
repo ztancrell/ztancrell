@@ -29,6 +29,4 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 [View my crypto addresses](CRYPTO.md)
 
 ## 📬 Contact Me
-- 📧 [Email](mailto:zach.tancrell@protonmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zacharytancrell/)
 - 🐙 [GitHub](https://www.github.com/ztancrell)
