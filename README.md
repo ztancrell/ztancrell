@@ -24,9 +24,5 @@ In my free time, I enjoy exploring new technologies, contributing to open-source
 ## 🚀 Let's Collaborate!
 I'm always open to collaborating on interesting projects. If you have an idea or project in mind, feel free to reach out!
 
-## Donations
-
+## 💰Crypto
 [View my crypto addresses](CRYPTO.md)
-
-## 📬 Contact Me
-- 🐙 [GitHub](https://www.github.com/ztancrell)
