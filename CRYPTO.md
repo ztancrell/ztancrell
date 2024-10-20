@@ -1,5 +1,3 @@
-# CRYPTO DONATION ADDRESSES
-
 Thank you for considering a donation.  
 It truly means a lot to me that you'd support my work.
 
