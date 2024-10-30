@@ -26,3 +26,5 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## 💰Crypto
 [View my crypto addresses](CRYPTO.md)
+
+<h6 align='center'>Copyright (C) 2024 Zach Tancrell<h6>
