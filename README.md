@@ -16,7 +16,6 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**filterlists**](https://github.com/ztancrell/filterlists) | TEXT | Ublock Origin filter to support DuckDuckGo, Startpage and Swisscows by whitelisting their ads. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 | [**FNV E| [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
-| --- | --- | --- |
 | **3k uDLs!!!!!!!!!** :star: | | |NB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
 
 ## 🎯 Interests
