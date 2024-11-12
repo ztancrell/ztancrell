@@ -15,6 +15,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS |  AuroraFX is a customChrome.css modification for [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. |
 | [**filterlists**](https://github.com/ztancrell/filterlists) | TEXT | Ublock Origin filter to support DuckDuckGo, Startpage and Swisscows by whitelisting their ads. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
+| [**FNV ENB Cleaner** (3k uDLs NexusMods!!!!!!](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
 
 ## 🎯 Interests
 In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
