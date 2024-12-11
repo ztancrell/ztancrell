@@ -1,3 +1,5 @@
+![](imgs/channels4_banner.jpg)
+
 # Hello, I'm Zach! 👋
 I'm a passionate Linux and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service.
 
