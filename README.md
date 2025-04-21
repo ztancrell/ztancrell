@@ -8,6 +8,8 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
 
 ## 📂 Projects <sup>Soon™️</sup>
+<!-- | [**placeholder**](https://www.example.com) | EXAMPLE | An example. | </sup> -->
+
 | Project | Language | Description |
 | --- | --- | --- |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
@@ -19,8 +21,6 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 | [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
 <sup>**3k uDLs!!!!!!!!!** :star: :star:</sup>
-
-| [**placeholder**](https://www.example.com) | EXAMPLE | An example. |
 
 ## 🎯 Interests
 In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
