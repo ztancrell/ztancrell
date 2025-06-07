@@ -17,7 +17,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS | AuroraFX is a customChrome.css modification for [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. |
 | [**filterlists**](https://github.com/ztancrell/filterlists) | TEXT | Ublock Origin filter to support DuckDuckGo, Startpage and Swisscows by whitelisting their ads. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
-| [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. <br> <sup>**3k uDLs!** :star: :star:</sup> |
+| [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. <sup>**3k uDLs!** :star: :star:</sup> |
 | [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ | A troll C++ console program that "generates" fake codes and just berates the user. |
 | [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) | C++ | A simple, educational C++ console keylogger application with a menu. |
 
