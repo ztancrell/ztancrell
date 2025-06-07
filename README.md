@@ -22,6 +22,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
 <sup>**3k uDLs!!!!!!!!!** :star: :star:</sup>
 | [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ | A troll C++ console program that "generates" fake codes and just berate the user. |
+| [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) | C++ | A simple, educational C++ console keylogger application with a menu. |
 
 ## 🎯 Interests
 In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
