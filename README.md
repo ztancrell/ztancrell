@@ -4,7 +4,7 @@
 I'm a passionate Linux and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service.
 
 ## 🛠️ Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![GNU Bash](https://img.shields.io/badge/Bash-grey?style=flat-square)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?style=flat-square)
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
 
 ## 📂 Projects <sup>Soon™️</sup>
