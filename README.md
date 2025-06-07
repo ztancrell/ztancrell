@@ -21,6 +21,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 | [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) | Powershell | A powershell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
 <sup>**3k uDLs!!!!!!!!!** :star: :star:</sup>
+| [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ | A troll C++ console program that "generates" fake codes and just berate the user. |
 
 ## 🎯 Interests
 In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
