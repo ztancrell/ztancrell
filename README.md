@@ -33,4 +33,12 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 ## 💰Crypto
 [View my crypto addresses](CRYPTO.md)
 
-<h6 align='center'>Copyright (C) 2024 Zach Tancrell<h6>
+---
+
+## License
+
+This profile and its projects are released under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+
+---
+
+<p align="center">© 2024 Zach Tancrell<br><strong>Free software, free as in freedom!</strong></p>
