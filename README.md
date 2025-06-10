@@ -18,7 +18,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**filterlists**](https://github.com/ztancrell/filterlists) | TEXT | uBlock Origin filter to support DuckDuckGo, Startpage and Swisscows by whitelisting their ads. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 | [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106)<a href="https://www.nexusmods.com/newvegas/mods/82106"><img src="https://img.shields.io/badge/NexusMods-Link-orange?logo=nexusmods&style=flat-square"></a> <br> <sub>🌟 3k unique downloads!</sub> | Powershell | A PowerShell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
-| [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ | A troll C++ console program that "generates" fake codes and just berates the user. |
+| [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ |  This is a recreation of a C++ troll console application I originally wrote years ago, called Free Steam Code Generator. The program pretends to generate Steam gift codes, ultimately reveals its troll nature, and flashes colorful messages in the console. |
 | [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) | C++ | A simple, educational C++ console keylogger application with a menu. |
 
 
