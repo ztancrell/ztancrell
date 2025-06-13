@@ -8,6 +8,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
 
 
+## Projects
 | Project | Language | Description |
 | --- | --- | --- |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
