@@ -3,8 +3,6 @@
 # Hello, I'm Zach!
 I'm a passionate Linux and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service.
 
-| [**dotfiles**](https://github.com/ztancrell/dotfiles) | TEXT | A simple, $HOME for my dotfiles. |
-
 ## Skills
 - **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?style=flat-square)
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
@@ -23,6 +21,7 @@ I'm a passionate Linux and open-source enthusiast, dedicated to coding and commu
 | [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106)<a href="https://www.nexusmods.com/newvegas/mods/82106"><img src="https://img.shields.io/badge/NexusMods-Link-orange?logo=nexusmods&style=flat-square"></a> <br> <sub>🌟 3k unique downloads!</sub> | Powershell | A PowerShell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
 | [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ |  This is a recreation of a C++ troll console application I originally wrote years ago, called Free Steam Code Generator. The program pretends to generate Steam gift codes, ultimately reveals its troll nature, and flashes colorful messages in the console. |
 | [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) | C++ | A simple, educational C++ console keylogger application with a menu. |
+| [**dotfiles**](https://github.com/ztancrell/dotfiles) | TEXT | A simple, $HOME for my dotfiles. |
 
 
 ## Interests
