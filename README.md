@@ -32,7 +32,7 @@ In my free time, I enjoy exploring new technologies, contributing to open-source
 ## Let's Collaborate!
 I'm always open to collaborating on interesting projects. If you have an idea or project in mind, feel free to reach out!
 
-![&#122;&#97;&#99;&#104;&#46;&#116;&#97;&#110;&#99;&#114;&#101;&#108;&#108;&#64;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;](imgs/email-protection.png)
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#122;&#x74;&#97;&#110;&#x63;&#x72;&#x65;&#x6c;&#108;&#x40;&#116;&#x75;&#x74;&#x61;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#122;&#116;&#x61;&#110;&#x63;&#x72;&#x65;&#x6c;&#x6c;&#x40;&#x74;&#117;&#x74;&#x61;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>
 
 ## Crypto
 [View my crypto addresses](CRYPTO.md)
