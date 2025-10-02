@@ -32,7 +32,9 @@ In my free time, I enjoy exploring new technologies, contributing to open-source
 ## Let's Collaborate!
 I'm always open to collaborating on interesting projects. If you have an idea or project in mind, feel free to reach out!
 
-![&#122;&#97;&#99;&#104;&#46;&#116;&#97;&#110;&#99;&#114;&#101;&#108;&#108;&#64;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;](imgs/email-protection.png)
+<script type="text/javascript">
+document.write(atob("PGEgaHJlZj0ibWFpbHRvOnp0YW5jcmVsbEB0dXRhbWFpbC5jb20iPnR1dGFtYWlsITwvYT4gPGEgaHJlZj0iaHR0cHM6Ly93d3cud2ViZXN0b29scy5jb20vYW50aXNwYW0tZW1haWwtcHJvdGVjdGlvbi1vYmZ1c2NhdGUtZW1haWwtYWRkcmVzcy13ZWJzaXRlLWNvZGUtc3BhbS1qYXZhc2NyaXB0LWJhc2U2NC1lbWFpbC1lbmNvZGluZy1jcnlwdC5odG1sIiB0aXRsZT0iQW50aS1TUEFNIFByb3RlY3Rpb24iPjxpbWcgc3JjPSIvL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zLzIvMjgvU2VtaV9wcm90ZWN0LnN2ZyIgd2lkdGg9MTQgaGVpZ2h0PTE0IC8+PC9hPg=="));
+</script>
 
 ## Crypto
 [View my crypto addresses](CRYPTO.md)
