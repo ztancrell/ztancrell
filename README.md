@@ -11,7 +11,7 @@ I'm a passionate Linux / macOS, and open-source enthusiast, dedicated to coding 
 ## Projects
 | Project | Language | Description |
 | --- | --- | --- |
-| [**dotfiles**](https://github.com/ztancrell/dotfiles) | TEXT | A simple, $HOME for my dotfiles. |
+| [**dotfiles**](https://github.com/ztancrell/lxqt-labwc-openbox) | XML | A simple, $HOME for my dotfiles. |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA Online. |
 | [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
