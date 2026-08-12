@@ -1,7 +1,9 @@
 ![](imgs/channels4_banner.jpg)
 
 # Hi!
-I'm a passionate Linux / macOS, and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service. I have used AI for coding, I do not hide this. I personally feel AI can be used for good, but it is definitely a slippery slope.
+I'm a passionate Linux / macOS, and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service. 
+
+I have used AI for coding, I do not hide this. I personally feel AI can be used for good, but it is definitely a slippery slope.
 
 ## Skills
 - **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?style=flat-square)
