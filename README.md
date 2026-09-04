@@ -1,19 +1,22 @@
 ![](imgs/channels4_banner.jpg)
 
 # Hi!
-I'm a passionate Linux / macOS, and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service. 
+I'm a passionate Linux, macOS, and open-source enthusiast, dedicated to coding and community contributions. I love coding projects that aim to help people and provide a service.
 
 I have used AI for coding some of my more recent projects, but my older projects are not AI coded. I think I just "improved" it with AI. I do not hide this. I personally feel AI can be used for good, but it is definitely a slippery slope.
 
 ## Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?style=flat-square)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![C](https://img.shields.io/badge/C-grey?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?style=flat-square) ![Shell](https://img.shields.io/badge/Shell-green?style=flat-square)
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square)
 
 
 ## Projects
 | Project | Language | Description |
 | --- | --- | --- |
-| [**dotfiles**](https://github.com/ztancrell/dotfiles) | XML | A simple, $HOME for my dotfiles. |
+| [**minimal-yt**](https://github.com/ztancrell/minimal-yt) | TEXT | A minimal and lightweight YouTube filter list for uBlock Origin! :3 |
+| [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) | C | My fork of a fast compositor for X11. |
+| [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) | C | My patchwork fork of the Openbox Window Manager. |
+| [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple, $HOME for my dotfiles. |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA Online. |
 | [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
@@ -49,7 +52,7 @@ This profile and its projects are released under the [GNU General Public License
 
 <div align="center">
 
-© 2024 Zach Tancrell  
+© 2024–2026 Zach Tancrell<br>
 **Free software, free as in freedom!**
 
 </div>
