@@ -13,10 +13,9 @@ I have used AI for coding some of my more recent projects, but my older projects
 ## Projects
 | Project | Language | Description |
 | --- | --- | --- |
-| [**minimal-yt**](https://github.com/ztancrell/minimal-yt) | TEXT | A minimal and lightweight YouTube filter list for uBlock Origin! :3 |
+| [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple, $HOME for my dotfiles. |
 | [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) | C | My fork of a fast compositor for X11. |
 | [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) | C | My patchwork fork of the Openbox Window Manager. |
-| [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple, $HOME for my dotfiles. |
 | [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA Online. |
 | [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
