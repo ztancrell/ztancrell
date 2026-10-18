@@ -7,7 +7,7 @@ I have used AI for coding some of my more recent projects, but my older projects
 
 ## Skills
 - **Languages:** ![Python](https://img.shields.io/badge/Python-Blue?style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square) ![C++](https://img.shields.io/badge/C++-black?style=flat-square) ![C](https://img.shields.io/badge/C-grey?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=flat-square)
-- **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-black?style=flat-square) ![Git](https://img.shields.io/badge/Git-red?style=flat-square) ![X11](https://img.shields.io/badge/X11-grey?style=flat-square)
+- **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-black?style=flat-square) ![Git](https://img.shields.io/badge/Git-red?style=flat-square) ![X11](https://img.shields.io/badge/X11-grey?style=flat-square) ![AI-assisted](https://img.shields.io/badge/AI--assisted-blueviolet?style=flat-square)
 
 
 ## Projects
