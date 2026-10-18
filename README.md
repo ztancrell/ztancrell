@@ -18,6 +18,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 | [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple, $HOME for my dotfiles. |
 | [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) | C | My fork of a fast compositor for X11. |
 | [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) | C | My patchwork fork of the Openbox Window Manager. |
+| [**xserver**](https://github.com/ztancrell/xserver) | C | My AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server, with forks of its [libinput](https://github.com/ztancrell/xf86-input-libinput) and [amdgpu](https://github.com/ztancrell/xf86-video-amdgpu) drivers. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 
 ### macOS on Linux (Darling)
