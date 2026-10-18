@@ -20,6 +20,12 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 | [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) | C | My patchwork fork of the Openbox Window Manager. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 
+### macOS on Linux (Darling)
+| Project | Language | Description |
+| --- | --- | --- |
+| [**darling-lol**](https://github.com/ztancrell/darling-lol) | C | Fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol): Darling runtime patches for running the macOS League of Legends client on Linux. <br><sub>[5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.</sub> |
+| [**darling**](https://github.com/ztancrell/darling) | C / Objective-C | Forks of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer and its [xnu](https://github.com/ztancrell/darling-xnu), [Libsystem](https://github.com/ztancrell/darling-Libsystem) and [Libinfo](https://github.com/ztancrell/darling-Libinfo) components. <br><sub>Merged upstream: [darling#1093](https://github.com/VibeDarling/darling/pull/1093), [darling-xnu#62](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem#3](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).</sub> |
+
 ### Browser & privacy
 | Project | Language | Description |
 | --- | --- | --- |
