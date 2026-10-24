@@ -33,6 +33,13 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 | [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS | AuroraFX is a customChrome.css modification for [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. |
 | [**filterlists**](https://github.com/ztancrell/filterlists) | uBO filters | uBlock Origin filter to support DuckDuckGo, Startpage and Swisscows by whitelisting their ads. |
 
+### Game decomps, rewrites & ports
+| Project | Language | Description |
+| --- | --- | --- |
+| **MX vs ATV Reflex: Retuned**<br><sub>Private for now</sub> | C | Unofficial fan remaster patch for MX vs ATV Reflex (PC). A readable C rewrite of the game code, hooked in through `dinput8.dll`. Needs your own copy of the game. |
+| **Mercenaries 2: Rearmed**<br><sub>Private for now</sub> | C++ | Unofficial fan decompilation of Mercenaries 2: World in Flames (PC). A readable C++ rewrite of the game code, loaded as a Merc2 mod runtime plugin. Needs your own copy of the game. |
+| **vkMercs: Mercenaries 1 Reimagined**<br><sub>Private for now</sub> | C++ | Unofficial PC port of Mercenaries: Playground of Destruction, which only ever shipped on Xbox and PS2. New Vulkan renderer, PC controls, audio and saves, plus expanded sandbox systems. Runs through Proton. |
+
 ### Windows & gaming
 | Project | Language | Description |
 | --- | --- | --- |
