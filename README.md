@@ -3,29 +3,34 @@
 # Hi!
 I spend most of my time on Linux, tinkering with the parts most people never touch. Lately that means patching X servers, window managers and Darling (so macOS apps run on Linux), and sending fixes back upstream when they're good enough. I also like writing small tools that make something annoying a little less annoying.
 
-AI is a big part of my workflow and many of my recent projects are AI-assisted. My older projects were written by hand, though some were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good, but it is definitely a slippery slope.
+AI is a big part of my workflow and many of my recent projects are AI-assisted. My older projects were written by hand, though some were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
 
 ## Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?logo=autohotkey&style=flat-square) ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square) ![C](https://img.shields.io/badge/C-grey?logo=c&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?logo=css&style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=flat-square)
-- **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?logo=linux&style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-black?logo=apple&style=flat-square) ![Git](https://img.shields.io/badge/Git-red?logo=git&style=flat-square) ![X11](https://img.shields.io/badge/X11-grey?logo=xdotorg&style=flat-square) ![AI-assisted](https://img.shields.io/badge/AI--assisted-blueviolet?style=flat-square) ![Claude Opus 5.5](https://img.shields.io/badge/Claude_Opus_5.5-D97757?logo=claude&logoColor=white&style=flat-square)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?logo=autohotkey&style=flat-square) ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square) ![C](https://img.shields.io/badge/C-grey?logo=c&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?logo=css&style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik00IDVsOCA3LTggN00xMyAxOWg4Ii8+PC9zdmc+&style=flat-square)
+- **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?logo=linux&style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTF2MTFIMHpNMTMgMGgxMXYxMUgxM3pNMCAxM2gxMXYxMUgwek0xMyAxM2gxMXYxMUgxM3oiLz48L3N2Zz4=&style=flat-square) ![macOS](https://img.shields.io/badge/macOS-black?logo=apple&style=flat-square) ![Git](https://img.shields.io/badge/Git-red?logo=git&style=flat-square) ![X11](https://img.shields.io/badge/X11-grey?logo=xdotorg&style=flat-square) ![AI-assisted](https://img.shields.io/badge/AI--assisted-blueviolet?style=flat-square)
 
 
 ## Projects
 
 ### Linux & desktop
+- **homestead**: my patched X11 desktop stack, built from source and running daily on CachyOS.
+  - [**xserver**](https://github.com/ztancrell/xserver) (C): my AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server.
+    - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput) (C): its libinput input driver.
+    - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu) (C): its AMDGPU video driver.
+  - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) (C): an AI-assisted Openbox fork focused on stability, compatibility and hardening.
+  - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) (C): my fork of a fast compositor for X11.
+  - [**tint2**](https://github.com/ztancrell/tint2) (C): my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
+
 | Project | Language | Description |
 | --- | --- | --- |
-| [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple, $HOME for my dotfiles. |
-| [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) | C | My fork of a fast compositor for X11. |
-| [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) | C | My patchwork fork of the Openbox Window Manager. |
-| [**xserver**](https://github.com/ztancrell/xserver) | C | My AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server, with forks of its [libinput](https://github.com/ztancrell/xf86-input-libinput) and [amdgpu](https://github.com/ztancrell/xf86-video-amdgpu) drivers. |
+| [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple $HOME for my dotfiles. |
 | [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
 
 ### macOS on Linux (Darling)
 | Project | Language | Description |
 | --- | --- | --- |
 | [**darling-lol**](https://github.com/ztancrell/darling-lol) | C | Fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol): Darling runtime patches for running the macOS League of Legends client on Linux. <br><sub>[5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.</sub> |
-| [**darling**](https://github.com/ztancrell/darling) | C / Objective-C | Forks of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer and its [xnu](https://github.com/ztancrell/darling-xnu), [Libsystem](https://github.com/ztancrell/darling-Libsystem) and [Libinfo](https://github.com/ztancrell/darling-Libinfo) components. <br><sub>Merged upstream: [darling#1093](https://github.com/VibeDarling/darling/pull/1093), [darling-xnu#62](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem#3](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).</sub> |
+| [**darling**](https://github.com/ztancrell/darling) | C / Objective-C | Forks of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer and its [xnu](https://github.com/ztancrell/darling-xnu), [Libsystem](https://github.com/ztancrell/darling-Libsystem) and [Libinfo](https://github.com/ztancrell/darling-Libinfo) components. <br><sub>Merged upstream: [darling#1093](https://github.com/VibeDarling/darling/pull/1093), [darling#1250](https://github.com/VibeDarling/darling/pull/1250), [darling-xnu#62](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem#3](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).</sub> |
 
 ### Browser & privacy
 | Project | Language | Description |
@@ -52,16 +57,10 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 | Project | Language | Description |
 | --- | --- | --- |
 | [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA Online. |
-| [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ |  This is a recreation of a C++ troll console application I originally wrote years ago, called Free Steam Code Generator. The program pretends to generate Steam gift codes, ultimately reveals its troll nature, and flashes colorful messages in the console. |
-| [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) | C++ | A small C++ console keylogger with a menu that I wrote while learning how Windows handles keyboard input. For learning only. |
+| [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ | A recreation of an old troll console app of mine that pretends to generate Steam gift codes, then reveals the joke. |
 
 
-## Interests
-In my free time, I enjoy exploring new technologies, contributing to open-source projects, listening to audiobooks, and learning about system architecture.
-
-## Let's Collaborate!
-I'm always open to collaborating on interesting projects. If you have an idea or project in mind, feel free to reach out!
-
+## Contact
 <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#122;&#x74;&#97;&#110;&#x63;&#x72;&#x65;&#x6c;&#108;&#x40;&#116;&#x75;&#x74;&#x61;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#122;&#116;&#x61;&#110;&#x63;&#x72;&#x65;&#x6c;&#x6c;&#x40;&#x74;&#117;&#x74;&#x61;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>
 
 ## Crypto
