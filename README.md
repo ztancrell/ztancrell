@@ -14,41 +14,46 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ### Linux & desktop
 - **homestead**: my patched X11 desktop stack, built from source and running daily on CachyOS.
-  - [**xserver**](https://github.com/ztancrell/xserver) (C): my AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server.
-    - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput) (C): its libinput input driver.
-    - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu) (C): its AMDGPU video driver.
-  - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) (C): an AI-assisted Openbox fork focused on stability, compatibility and hardening.
-  - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) (C): my fork of a fast compositor for X11.
-  - [**tint2**](https://github.com/ztancrell/tint2) (C): my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
-- [**dotfiles**](https://github.com/ztancrell/dotfiles) (Shell): a simple $HOME for my dotfiles.
-- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) (Python/Bash): a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
+  - [**xserver**](https://github.com/ztancrell/xserver): my AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server. <sub>C</sub>
+    - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput): its libinput input driver. <sub>C</sub>
+    - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu): its AMDGPU video driver. <sub>C</sub>
+  - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork): an AI-assisted Openbox fork focused on stability, compatibility and hardening. <sub>C</sub>
+  - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr): my fork of a fast compositor for X11. <sub>C</sub>
+  - [**tint2**](https://github.com/ztancrell/tint2): my spin of the [tint2](https://gitlab.com/o9000/tint2) panel. <sub>C</sub>
+- [**dotfiles**](https://github.com/ztancrell/dotfiles): a simple $HOME for my dotfiles. <sub>Shell</sub>
+- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay): a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. <sub>Python/Bash</sub>
 
 ### macOS on Linux (Darling)
-- [**darling**](https://github.com/ztancrell/darling) (C/Objective-C): my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250).
-  - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) (C): its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
-  - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) (C): its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
-  - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) (C): its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
-  - [**darling-lol**](https://github.com/ztancrell/darling-lol) (C): fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol), runtime patches for running the macOS League of Legends client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
+- [**darling**](https://github.com/ztancrell/darling): my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250). <sub>C/Objective-C</sub>
+  - [**darling-xnu**](https://github.com/ztancrell/darling-xnu): its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62). <sub>C</sub>
+  - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem): its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3). <sub>C</sub>
+  - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo): its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1). <sub>C</sub>
+  - [**darling-lol**](https://github.com/ztancrell/darling-lol): fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream. <sub>C</sub>
 
 ### Browser & privacy
-- [**AuroraFX**](https://github.com/ztancrell/AuroraFX) (CSS): a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
-- [**filterlists**](https://github.com/ztancrell/filterlists) (uBO filters): uBlock Origin filters that whitelist ads on DuckDuckGo, Startpage and Swisscows to support them.
+- [**AuroraFX**](https://github.com/ztancrell/AuroraFX): a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. <sub>CSS</sub>
+- [**filterlists**](https://github.com/ztancrell/filterlists): uBlock Origin filters that whitelist ads on DuckDuckGo, Startpage and Swisscows to support them. <sub>uBO filters</sub>
 
 ### Game decomps, rewrites & ports
 <sub>Private for now. Each needs your own copy of the game.</sub>
-- **MX vs ATV Reflex: Retuned** (C): unofficial fan remaster patch for MX vs ATV Reflex (PC). A readable C rewrite of the game code, hooked in through `dinput8.dll`.
-- **Mercenaries 2: Rearmed** (C++): unofficial fan decompilation of Mercenaries 2: World in Flames (PC). A readable C++ rewrite of the game code, loaded as a Merc2 mod runtime plugin.
-- **vkMercs: Mercenaries 1 Reimagined** (C++): unofficial PC port of Mercenaries: Playground of Destruction, which only shipped on Xbox and PS2. New Vulkan renderer, PC controls, audio and saves, plus expanded sandbox systems. Runs through Proton.
+- **MX vs ATV Reflex: Retuned**: fan remaster patch for MX vs ATV Reflex (PC) that rewrites the game code in readable C, hooked in through `dinput8.dll`. <sub>C</sub>
+- **Mercenaries 2: Rearmed**: fan decompilation of Mercenaries 2: World in Flames (PC), rewritten in readable C++ and loaded as a mod runtime plugin. <sub>C++</sub>
+- **vkMercs: Mercenaries 1 Reimagined**: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox. <sub>C++</sub>
+
+<details>
+<summary><b>Older projects</b></summary>
 
 ### Windows & gaming
-- [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) (PowerShell): removes [enbseries](http://enbdev.com/download.html) files from a Fallout: New Vegas install. 🌟 3k unique downloads!
-- [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) (AutoHotkey): gives Model M keyboards a Windows key.
-- [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) (AutoHotkey): scripts for automating Minecraft.
-- [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) (AutoHotkey): automated gear collection for ShellShock Live.
+- [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106): removes [enbseries](http://enbdev.com/download.html) files from a Fallout: New Vegas install. 🌟 3k unique downloads! <sub>PowerShell</sub>
+- [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix): gives Model M keyboards a Windows key. <sub>AutoHotkey</sub>
+- [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK): scripts for automating Minecraft. <sub>AutoHotkey</sub>
+- [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber): automated gear collection for ShellShock Live. <sub>AutoHotkey</sub>
 
 ### Fun & old projects
-- [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) (AutoHotkey): prevents AFK status in GTA Online.
-- [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) (C++): a recreation of an old troll console app of mine that pretends to generate Steam gift codes, then reveals the joke.
+- [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA): prevents AFK status in GTA Online. <sub>AutoHotkey</sub>
+- [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll): a remake of my old troll app that pretends to generate Steam gift codes. <sub>C++</sub>
+
+</details>
 
 ## Contact
 <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#122;&#x74;&#97;&#110;&#x63;&#x72;&#x65;&#x6c;&#108;&#x40;&#116;&#x75;&#x74;&#x61;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#122;&#116;&#x61;&#110;&#x63;&#x72;&#x65;&#x6c;&#x6c;&#x40;&#x74;&#117;&#x74;&#x61;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>
