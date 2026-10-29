@@ -13,7 +13,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 ## Projects
 
 ### Linux & desktop
-- **homestead**: my patched X11 desktop stack, built from source and running daily on CachyOS.
+- [**homestead**](https://github.com/ztancrell/homestead): my patched X11 desktop stack, built from source and running daily on CachyOS. <sub>C</sub>
   - [**xserver**](https://github.com/ztancrell/xserver): my AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server. <sub>C</sub>
     - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput): its libinput input driver. <sub>C</sub>
     - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu): its AMDGPU video driver. <sub>C</sub>
