@@ -20,45 +20,35 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) (C): an AI-assisted Openbox fork focused on stability, compatibility and hardening.
   - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) (C): my fork of a fast compositor for X11.
   - [**tint2**](https://github.com/ztancrell/tint2) (C): my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
-
-| Project | Language | Description |
-| --- | --- | --- |
-| [**dotfiles**](https://github.com/ztancrell/dotfiles) | Shell | A simple $HOME for my dotfiles. |
-| [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) | Python/Bash | A fork of [DOWRIGHTTV's](https://github.com/DOWRIGHTTV/) [DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. |
+- [**dotfiles**](https://github.com/ztancrell/dotfiles) (Shell): a simple $HOME for my dotfiles.
+- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) (Python/Bash): a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
 
 ### macOS on Linux (Darling)
-| Project | Language | Description |
-| --- | --- | --- |
-| [**darling-lol**](https://github.com/ztancrell/darling-lol) | C | Fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol): Darling runtime patches for running the macOS League of Legends client on Linux. <br><sub>[5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.</sub> |
-| [**darling**](https://github.com/ztancrell/darling) | C / Objective-C | Forks of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer and its [xnu](https://github.com/ztancrell/darling-xnu), [Libsystem](https://github.com/ztancrell/darling-Libsystem) and [Libinfo](https://github.com/ztancrell/darling-Libinfo) components. <br><sub>Merged upstream: [darling#1093](https://github.com/VibeDarling/darling/pull/1093), [darling#1250](https://github.com/VibeDarling/darling/pull/1250), [darling-xnu#62](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem#3](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).</sub> |
+- [**darling**](https://github.com/ztancrell/darling) (C/Objective-C): my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250).
+  - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) (C): its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
+  - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) (C): its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
+  - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) (C): its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
+  - [**darling-lol**](https://github.com/ztancrell/darling-lol) (C): fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol), runtime patches for running the macOS League of Legends client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
 
 ### Browser & privacy
-| Project | Language | Description |
-| --- | --- | --- |
-| [**AuroraFX**](https://github.com/ztancrell/AuroraFX) | CSS | AuroraFX is a customChrome.css modification for [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme. |
-| [**filterlists**](https://github.com/ztancrell/filterlists) | uBO filters | uBlock Origin filter to support DuckDuckGo, Startpage and Swisscows by whitelisting their ads. |
+- [**AuroraFX**](https://github.com/ztancrell/AuroraFX) (CSS): a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
+- [**filterlists**](https://github.com/ztancrell/filterlists) (uBO filters): uBlock Origin filters that whitelist ads on DuckDuckGo, Startpage and Swisscows to support them.
 
 ### Game decomps, rewrites & ports
-| Project | Language | Description |
-| --- | --- | --- |
-| **MX vs ATV Reflex: Retuned**<br><sub>Private for now</sub> | C | Unofficial fan remaster patch for MX vs ATV Reflex (PC). A readable C rewrite of the game code, hooked in through `dinput8.dll`. Needs your own copy of the game. |
-| **Mercenaries 2: Rearmed**<br><sub>Private for now</sub> | C++ | Unofficial fan decompilation of Mercenaries 2: World in Flames (PC). A readable C++ rewrite of the game code, loaded as a Merc2 mod runtime plugin. Needs your own copy of the game. |
-| **vkMercs: Mercenaries 1 Reimagined**<br><sub>Private for now</sub> | C++ | Unofficial PC port of Mercenaries: Playground of Destruction, which only ever shipped on Xbox and PS2. New Vulkan renderer, PC controls, audio and saves, plus expanded sandbox systems. Runs through Proton. |
+<sub>Private for now. Each needs your own copy of the game.</sub>
+- **MX vs ATV Reflex: Retuned** (C): unofficial fan remaster patch for MX vs ATV Reflex (PC). A readable C rewrite of the game code, hooked in through `dinput8.dll`.
+- **Mercenaries 2: Rearmed** (C++): unofficial fan decompilation of Mercenaries 2: World in Flames (PC). A readable C++ rewrite of the game code, loaded as a Merc2 mod runtime plugin.
+- **vkMercs: Mercenaries 1 Reimagined** (C++): unofficial PC port of Mercenaries: Playground of Destruction, which only shipped on Xbox and PS2. New Vulkan renderer, PC controls, audio and saves, plus expanded sandbox systems. Runs through Proton.
 
 ### Windows & gaming
-| Project | Language | Description |
-| --- | --- | --- |
-| [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106)<br> <sub>🌟 3k unique downloads!</sub> | PowerShell | A PowerShell script that removes [**enbseries**](http://enbdev.com/download.html) files from a Fallout New Vegas install directory. |
-| [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) | AutoHotkey | A script to fix the Windows key functionality on Model M keyboards. |
-| [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) | AutoHotkey | Collection of AutoHotkey scripts for automating Minecraft. |
-| [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) | AutoHotkey | Automated gear collection for ShellShock Live. |
+- [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) (PowerShell): removes [enbseries](http://enbdev.com/download.html) files from a Fallout: New Vegas install. 🌟 3k unique downloads!
+- [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) (AutoHotkey): gives Model M keyboards a Windows key.
+- [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) (AutoHotkey): scripts for automating Minecraft.
+- [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) (AutoHotkey): automated gear collection for ShellShock Live.
 
 ### Fun & old projects
-| Project | Language | Description |
-| --- | --- | --- |
-| [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) | AutoHotkey | A tool to prevent AFK status in GTA Online. |
-| [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) | C++ | A recreation of an old troll console app of mine that pretends to generate Steam gift codes, then reveals the joke. |
-
+- [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) (AutoHotkey): prevents AFK status in GTA Online.
+- [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) (C++): a recreation of an old troll console app of mine that pretends to generate Steam gift codes, then reveals the joke.
 
 ## Contact
 <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#122;&#x74;&#97;&#110;&#x63;&#x72;&#x65;&#x6c;&#108;&#x40;&#116;&#x75;&#x74;&#x61;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#122;&#116;&#x61;&#110;&#x63;&#x72;&#x65;&#x6c;&#x6c;&#x40;&#x74;&#117;&#x74;&#x61;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>
