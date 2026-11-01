@@ -57,6 +57,11 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
+- [**homestead**](https://github.com/ztancrell/homestead): 2026-10-30
+- [**tint2**](https://github.com/ztancrell/tint2): 2026-10-30
+- [**xserver**](https://github.com/ztancrell/xserver): 2026-10-30
+- [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork): 2026-10-30
+- [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr): 2026-10-30
 <!-- ACTIVE:END -->
 
 ## Contact
