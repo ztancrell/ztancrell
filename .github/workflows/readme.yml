@@ -1,0 +1,30 @@
+name: Update README
+on:
+  schedule: [{ cron: "17 6 * * *" }]   # daily
+  workflow_dispatch:                   # manual run button
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh repo list ztancrell --visibility public --limit 10 \
+            --json name,url,pushedAt \
+            --jq '[.[] | select(.name != "dotfiles" and .name != "ztancrell")][:5][]
+                  | "- [**\(.name)**](\(.url)): \(.pushedAt[:10])"' > active.md
+          python3 - <<'EOF'
+          import re
+          readme = open("README.md").read()
+          block = open("active.md").read()
+          new = re.sub(r"(<!-- ACTIVE:START -->\n).*?(<!-- ACTIVE:END -->)",
+                       lambda m: m[1] + block + m[2], readme, flags=re.S)
+          open("README.md", "w").write(new)
+          EOF
+          rm active.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || { git commit -am "Update README activity"; git push; }
