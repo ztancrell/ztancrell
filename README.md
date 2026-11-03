@@ -20,6 +20,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork): an AI-assisted Openbox fork focused on stability, compatibility and hardening. <sub>C</sub>
   - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr): my fork of a fast compositor for X11. <sub>C</sub>
   - [**tint2**](https://github.com/ztancrell/tint2): my spin of the [tint2](https://gitlab.com/o9000/tint2) panel. <sub>C</sub>
+- **threatfeed**: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now. <sub>Python</sub>
 - [**dotfiles**](https://github.com/ztancrell/dotfiles): a simple $HOME for my dotfiles. <sub>Shell</sub>
 - [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay): a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script. <sub>Python/Bash</sub>
 
