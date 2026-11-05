@@ -29,9 +29,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ### Multi-PC & Boot Camp
 - [**synergy-tools**](https://github.com/ztancrell/synergy-tools) `Rust`: tools that fill gaps in [Synergy 3](https://symless.com/synergy), which shares keyboard and mouse but not audio or files. Pairing is a one-time 8-digit code, and traffic is encrypted.
-  - [**synergy-audio**](https://github.com/ztancrell/synergy-audio) `Rust`: streams Windows game audio to Linux headphones over the LAN, with auto-mute and autostart.
-  - [**synergy-dragndrop**](https://github.com/ztancrell/synergy-dragndrop) `Rust`: sends files between Windows and Linux PCs: drop window, right-click "Send to", tray.
-- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs) `Rust`: a small Windows game booster I wrote for Battlefield 6 under Boot Camp. `boost` applies well-known tweaks, `restore` undoes them, and each tweak is explained so you can try it by hand.
+- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs) `Rust/C`: a small Windows game booster I wrote for Battlefield 6 under Boot Camp. `boost` applies well-known tweaks, `restore` undoes them, and each tweak is explained so you can try it by hand.
 - [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python`: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
 
 ### macOS on Linux (Darling)
@@ -51,6 +49,9 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 - **Mercenaries 2: Rearmed** `C++`: fan decompilation of Mercenaries 2: World in Flames (PC), rewritten in readable C++ and loaded as a mod runtime plugin.
 - **vkMercs: Mercenaries 1 Reimagined** `C++`: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
+<!-- NEW:START -->
+<!-- NEW:END -->
+
 <details>
 <summary><b>Older projects</b></summary>
 
@@ -63,13 +64,14 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 ### Fun & old projects
 - [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) `AutoHotkey`: prevents AFK status in GTA Online.
 - [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) `C++`: a remake of my old troll app that pretends to generate Steam gift codes.
+- [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++`: a simple, educational console keylogger with a menu.
 
 </details>
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-05
 - [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs): 2026-11-05
+- [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-05
 - [**project-falcon**](https://github.com/ztancrell/project-falcon): 2026-11-04
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-01
 - [**tint2**](https://github.com/ztancrell/tint2): 2026-10-30
