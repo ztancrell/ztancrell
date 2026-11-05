@@ -1,7 +1,7 @@
 name: Update README
 on:
-  schedule: [{ cron: "17 6 * * *" }]   # daily
-  workflow_dispatch:                   # manual run button
+  schedule: [{ cron: "17 */6 * * *" }]   # every 6 hours
+  workflow_dispatch:                     # manual run button
 permissions:
   contents: write
 jobs:
@@ -12,19 +12,9 @@ jobs:
       - env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh repo list ztancrell --visibility public --limit 10 \
-            --json name,url,pushedAt \
-            --jq '[.[] | select(.name != "dotfiles" and .name != "ztancrell")][:5][]
-                  | "- [**\(.name)**](\(.url)): \(.pushedAt[:10])"' > active.md
-          python3 - <<'EOF'
-          import re
-          readme = open("README.md").read()
-          block = open("active.md").read()
-          new = re.sub(r"(<!-- ACTIVE:START -->\n).*?(<!-- ACTIVE:END -->)",
-                       lambda m: m[1] + block + m[2], readme, flags=re.S)
-          open("README.md", "w").write(new)
-          EOF
-          rm active.md
+          gh repo list ztancrell --visibility public --limit 300 \
+            --json name,url,description,primaryLanguage,pushedAt > "$RUNNER_TEMP/repos.json"
+          python3 .github/scripts/update_readme.py "$RUNNER_TEMP/repos.json"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || { git commit -am "Update README activity"; git push; }
+          git diff --quiet || { git commit -am "Update README"; git push; }
