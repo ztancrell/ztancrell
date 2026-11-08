@@ -70,10 +70,10 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs): 2026-11-07
-- [**project-falcon**](https://github.com/ztancrell/project-falcon): 2026-11-07
+- [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-08
+- [**project-falcon**](https://github.com/ztancrell/project-falcon): 2026-11-08
+- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs): 2026-11-08
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-07
-- [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-07
 - [**tint2**](https://github.com/ztancrell/tint2): 2026-10-30
 <!-- ACTIVE:END -->
 
