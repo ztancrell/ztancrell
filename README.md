@@ -51,6 +51,21 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 - **vkMercs: Mercenaries 1 Reimagined** `C++`: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
+### New
+- [**indium**](https://github.com/ztancrell/indium) `C++`: A Metal implementation similar to the official Metal C++ API
+- [**darling-metal**](https://github.com/ztancrell/darling-metal) `Objective-C++`: An ABI-compatible implementation of Metal and related frameworks (e.g. MetalKit, MetalPerformanceShaders)
+- [**darling-libxpc**](https://github.com/ztancrell/darling-libxpc) `Objective-C`: Fork of NextBSD's libxpc for Darling build
+- [**darling-security**](https://github.com/ztancrell/darling-security) `C`: Apple's Security framework
+- [**darling-libkqueue**](https://github.com/ztancrell/darling-libkqueue) `C`: Darling build of libkqueue
+- [**darling-iokitd**](https://github.com/ztancrell/darling-iokitd) `Objective-C++`: Darling's IOKit server implementation
+- [**darling-foundation**](https://github.com/ztancrell/darling-foundation) `Objective-C`: The Darling Foundation framework, derived from Apportable Foundation
+- [**darlingserver**](https://github.com/ztancrell/darlingserver) `C`: Darling's userspace kernel server (much like Wine's wineserver)
+- [**darling-corefoundation**](https://github.com/ztancrell/darling-corefoundation) `C`: CoreFoundation (CFLite + missing bits)
+- [**darling-configd**](https://github.com/ztancrell/darling-configd) `C`: Apple's configd
+- [**darling-compiler-rt**](https://github.com/ztancrell/darling-compiler-rt) `C`: Fork of compiler-rt for Darling build
+- [**darling-cocotron**](https://github.com/ztancrell/darling-cocotron) `Objective-C`: Fork of the Cocotron for Darling
+- [**darling-cfnetwork**](https://github.com/ztancrell/darling-cfnetwork) `C`: Darling implementation of CFNetwork
+- [**darling-iokituser**](https://github.com/ztancrell/darling-iokituser) `C`: Apple's IOKitUser
 <!-- NEW:END -->
 
 <details>
@@ -71,11 +86,11 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**mbp16-power-findings**](https://github.com/ztancrell/mbp16-power-findings): 2026-11-09
-- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs): 2026-11-08
-- [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-08
-- [**project-falcon**](https://github.com/ztancrell/project-falcon): 2026-11-08
-- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-07
+- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-09
+- [**indium**](https://github.com/ztancrell/indium): 2026-11-09
+- [**darling-metal**](https://github.com/ztancrell/darling-metal): 2026-11-09
+- [**darling-libxpc**](https://github.com/ztancrell/darling-libxpc): 2026-11-09
+- [**darling-security**](https://github.com/ztancrell/darling-security): 2026-11-09
 <!-- ACTIVE:END -->
 
 ## Contact
