@@ -30,6 +30,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 ### Multi-PC & Boot Camp
 - [**synergy-tools**](https://github.com/ztancrell/synergy-tools) `Rust`: tools that fill gaps in [Synergy 3](https://symless.com/synergy), which shares keyboard and mouse but not audio or files. Pairing is a one-time 8-digit code, and traffic is encrypted.
 - [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs) `Rust/C`: a small Windows game booster I wrote for Battlefield 6 under Boot Camp. `boost` applies well-known tweaks, `restore` undoes them, and each tweak is explained so you can try it by hand.
+- [**The 70-Watt Ceiling**](https://ztancrell.github.io/mbp16-power-findings/) `HTML`: findings on why a 2019 16" MacBook Pro under Boot Camp cuts CPU and GPU power a few minutes into a game, and what fixes it. [Source](https://github.com/ztancrell/mbp16-power-findings).
 - [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python`: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
 
 ### macOS on Linux (Darling)
@@ -50,8 +51,6 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 - **vkMercs: Mercenaries 1 Reimagined** `C++`: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
-### New
-- [**mbp16-power-findings**](https://github.com/ztancrell/mbp16-power-findings) `HTML`: no description yet
 <!-- NEW:END -->
 
 <details>
