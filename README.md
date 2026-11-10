@@ -52,6 +52,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 <!-- NEW:START -->
 ### New
+- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell`: no description yet
 - [**indium**](https://github.com/ztancrell/indium) `C++`: A Metal implementation similar to the official Metal C++ API
 - [**darling-metal**](https://github.com/ztancrell/darling-metal) `Objective-C++`: An ABI-compatible implementation of Metal and related frameworks (e.g. MetalKit, MetalPerformanceShaders)
 - [**darling-libxpc**](https://github.com/ztancrell/darling-libxpc) `Objective-C`: Fork of NextBSD's libxpc for Darling build
@@ -87,10 +88,10 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 ## Recently active
 <!-- ACTIVE:START -->
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-09
+- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-09
 - [**indium**](https://github.com/ztancrell/indium): 2026-11-09
 - [**darling-metal**](https://github.com/ztancrell/darling-metal): 2026-11-09
 - [**darling-libxpc**](https://github.com/ztancrell/darling-libxpc): 2026-11-09
-- [**darling-security**](https://github.com/ztancrell/darling-security): 2026-11-09
 <!-- ACTIVE:END -->
 
 ## Contact
