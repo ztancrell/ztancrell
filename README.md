@@ -52,6 +52,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 <!-- NEW:START -->
 ### New
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: Rust fork of Ghidra, the software reverse engineering (SRE) framework
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell`: no description yet
 - [**indium**](https://github.com/ztancrell/indium) `C++`: A Metal implementation similar to the official Metal C++ API
 - [**darling-metal**](https://github.com/ztancrell/darling-metal) `Objective-C++`: An ABI-compatible implementation of Metal and related frameworks (e.g. MetalKit, MetalPerformanceShaders)
@@ -87,11 +88,11 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-11
+- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-11
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-09
-- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-09
 - [**indium**](https://github.com/ztancrell/indium): 2026-11-09
 - [**darling-metal**](https://github.com/ztancrell/darling-metal): 2026-11-09
-- [**darling-libxpc**](https://github.com/ztancrell/darling-libxpc): 2026-11-09
 <!-- ACTIVE:END -->
 
 ## Contact
