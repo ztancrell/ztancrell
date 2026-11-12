@@ -56,6 +56,10 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 - **vkMercs: Mercenaries 1 Reimagined** `C++`: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
+### New
+- [**capod**](https://github.com/ztancrell/capod) `Kotlin`: A companion app for AirPods on Android.
+- [**CachyOS-PKGBUILDS**](https://github.com/ztancrell/CachyOS-PKGBUILDS) `Shell`: PKGBUILDs for CachyOS
+- [**scx-manager**](https://github.com/ztancrell/scx-manager) `CMake`: Simple GUI for managing sched-ext schedulers via scx_loader 
 <!-- NEW:END -->
 
 <details>
@@ -77,10 +81,10 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 ## Recently active
 <!-- ACTIVE:START -->
 - [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-12
-- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-11
-- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-09
-- [**indium**](https://github.com/ztancrell/indium): 2026-11-09
-- [**darling-metal**](https://github.com/ztancrell/darling-metal): 2026-11-09
+- [**darling**](https://github.com/ztancrell/darling): 2026-11-12
+- [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-12
+- [**capod**](https://github.com/ztancrell/capod): 2026-11-12
+- [**CachyOS-PKGBUILDS**](https://github.com/ztancrell/CachyOS-PKGBUILDS): 2026-11-12
 <!-- ACTIVE:END -->
 
 ## Contact
