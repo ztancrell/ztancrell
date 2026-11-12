@@ -88,7 +88,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-11
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-12
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-11
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-09
 - [**indium**](https://github.com/ztancrell/indium): 2026-11-09
