@@ -24,6 +24,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) `C`: my fork of a fast compositor for X11.
   - [**tint2**](https://github.com/ztancrell/tint2) `C`: my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
 - **threatfeed** `Python`: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now.
+- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell`: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
 - [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell`: a simple $HOME for my dotfiles.
 - [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash`: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
 
@@ -38,7 +39,11 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) `C`: its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
   - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) `C`: its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
   - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) `C`: its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
+  - Other components I've forked: [darlingserver](https://github.com/ztancrell/darlingserver), [darling-foundation](https://github.com/ztancrell/darling-foundation), [darling-corefoundation](https://github.com/ztancrell/darling-corefoundation), [darling-cocotron](https://github.com/ztancrell/darling-cocotron), [darling-cfnetwork](https://github.com/ztancrell/darling-cfnetwork), [darling-security](https://github.com/ztancrell/darling-security), [darling-configd](https://github.com/ztancrell/darling-configd), [darling-iokitd](https://github.com/ztancrell/darling-iokitd), [darling-iokituser](https://github.com/ztancrell/darling-iokituser), [darling-libxpc](https://github.com/ztancrell/darling-libxpc), [darling-libkqueue](https://github.com/ztancrell/darling-libkqueue), [darling-compiler-rt](https://github.com/ztancrell/darling-compiler-rt), [darling-metal](https://github.com/ztancrell/darling-metal), [indium](https://github.com/ztancrell/indium).
   - [**darling-lol**](https://github.com/ztancrell/darling-lol) `C`: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
+
+### Reverse engineering
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: a headless Rust rewrite of [Ghidra](https://github.com/NationalSecurityAgency/ghidra), the NSA's reverse engineering framework. Early days: the code is still mostly upstream Java.
 
 ### Browser & privacy
 - [**AuroraFX**](https://github.com/ztancrell/AuroraFX) `CSS`: a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
@@ -51,23 +56,6 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 - **vkMercs: Mercenaries 1 Reimagined** `C++`: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
-### New
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: Rust fork of Ghidra, the software reverse engineering (SRE) framework
-- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell`: no description yet
-- [**indium**](https://github.com/ztancrell/indium) `C++`: A Metal implementation similar to the official Metal C++ API
-- [**darling-metal**](https://github.com/ztancrell/darling-metal) `Objective-C++`: An ABI-compatible implementation of Metal and related frameworks (e.g. MetalKit, MetalPerformanceShaders)
-- [**darling-libxpc**](https://github.com/ztancrell/darling-libxpc) `Objective-C`: Fork of NextBSD's libxpc for Darling build
-- [**darling-security**](https://github.com/ztancrell/darling-security) `C`: Apple's Security framework
-- [**darling-libkqueue**](https://github.com/ztancrell/darling-libkqueue) `C`: Darling build of libkqueue
-- [**darling-iokitd**](https://github.com/ztancrell/darling-iokitd) `Objective-C++`: Darling's IOKit server implementation
-- [**darling-foundation**](https://github.com/ztancrell/darling-foundation) `Objective-C`: The Darling Foundation framework, derived from Apportable Foundation
-- [**darlingserver**](https://github.com/ztancrell/darlingserver) `C`: Darling's userspace kernel server (much like Wine's wineserver)
-- [**darling-corefoundation**](https://github.com/ztancrell/darling-corefoundation) `C`: CoreFoundation (CFLite + missing bits)
-- [**darling-configd**](https://github.com/ztancrell/darling-configd) `C`: Apple's configd
-- [**darling-compiler-rt**](https://github.com/ztancrell/darling-compiler-rt) `C`: Fork of compiler-rt for Darling build
-- [**darling-cocotron**](https://github.com/ztancrell/darling-cocotron) `Objective-C`: Fork of the Cocotron for Darling
-- [**darling-cfnetwork**](https://github.com/ztancrell/darling-cfnetwork) `C`: Darling implementation of CFNetwork
-- [**darling-iokituser**](https://github.com/ztancrell/darling-iokituser) `C`: Apple's IOKitUser
 <!-- NEW:END -->
 
 <details>
