@@ -43,7 +43,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**darling-lol**](https://github.com/ztancrell/darling-lol) `C`: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
 
 ### Reverse engineering
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: a headless Rust rewrite of [Ghidra](https://github.com/NationalSecurityAgency/ghidra), the NSA's reverse engineering framework. Early days: the code is still mostly upstream Java.
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: replacing [Ghidra](https://github.com/NationalSecurityAgency/ghidra)'s Java codebase with Rust, piece by piece, as a headless reverse engineering tool. Early days: most of the code is still upstream Java.
 
 ### Browser & privacy
 - [**AuroraFX**](https://github.com/ztancrell/AuroraFX) `CSS`: a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
