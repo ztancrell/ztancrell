@@ -40,7 +40,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) `C`: its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
   - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) `C`: its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
   - Other components I've forked: [darlingserver](https://github.com/ztancrell/darlingserver), [darling-foundation](https://github.com/ztancrell/darling-foundation), [darling-corefoundation](https://github.com/ztancrell/darling-corefoundation), [darling-cocotron](https://github.com/ztancrell/darling-cocotron), [darling-cfnetwork](https://github.com/ztancrell/darling-cfnetwork), [darling-security](https://github.com/ztancrell/darling-security), [darling-configd](https://github.com/ztancrell/darling-configd), [darling-iokitd](https://github.com/ztancrell/darling-iokitd), [darling-iokituser](https://github.com/ztancrell/darling-iokituser), [darling-libxpc](https://github.com/ztancrell/darling-libxpc), [darling-libkqueue](https://github.com/ztancrell/darling-libkqueue), [darling-compiler-rt](https://github.com/ztancrell/darling-compiler-rt), [darling-metal](https://github.com/ztancrell/darling-metal), [indium](https://github.com/ztancrell/indium).
-  - [**darling-lol**](https://github.com/ztancrell/darling-lol) `C`: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
+  - [**darling-lol**](https://github.com/ztancrell/darling-lol) `Python`: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
 
 ### Reverse engineering
 - [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: replacing [Ghidra](https://github.com/NationalSecurityAgency/ghidra)'s Java codebase with Rust, piece by piece, as a headless reverse engineering tool. Early days: most of the code is still upstream Java.
@@ -81,8 +81,8 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 ## Recently active
 <!-- ACTIVE:START -->
 - [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-13
+- [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-13
 - [**darling**](https://github.com/ztancrell/darling): 2026-11-12
-- [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-12
 - [**capod**](https://github.com/ztancrell/capod): 2026-11-12
 - [**CachyOS-PKGBUILDS**](https://github.com/ztancrell/CachyOS-PKGBUILDS): 2026-11-12
 <!-- ACTIVE:END -->
