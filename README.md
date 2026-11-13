@@ -80,7 +80,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-12
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-13
 - [**darling**](https://github.com/ztancrell/darling): 2026-11-12
 - [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-12
 - [**capod**](https://github.com/ztancrell/capod): 2026-11-12
