@@ -80,11 +80,11 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-14
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-15
+- [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-15
 - [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-13
 - [**darling**](https://github.com/ztancrell/darling): 2026-11-12
 - [**capod**](https://github.com/ztancrell/capod): 2026-11-12
-- [**CachyOS-PKGBUILDS**](https://github.com/ztancrell/CachyOS-PKGBUILDS): 2026-11-12
 <!-- ACTIVE:END -->
 
 ## Contact
