@@ -6,7 +6,8 @@ name,url,description,primaryLanguage,pushedAt`. It:
   - regenerates the ACTIVE block (5 most recently pushed repos),
   - deletes curated bullets whose first link is a ztancrell repo that is gone or private,
   - lists unlinked public repos in the NEW block (newest first),
-  - fixes a curated bullet's language tag when it doesn't mention GitHub's primary language.
+  - fixes a curated bullet's language tag when it doesn't mention GitHub's primary language,
+  - leaves HIDDEN repos out of both generated blocks.
 Refuses to write if the repo list is empty/unparseable or more than 3 lines would be removed.
 Known limitation: a renamed repo shows up as removed + new.
 
@@ -17,6 +18,8 @@ import difflib, json, re, sys
 OWNER = "ztancrell"
 MAX_REMOVALS = 3
 ACTIVE_SKIP = {"dotfiles", OWNER}
+# Public forks kept off the profile until they carry my own work (lowercase names).
+HIDDEN = {"capod", "cachyos-pkgbuilds", "scx-manager"}
 BLOCK = r"(<!-- {0}:START -->\n).*?(<!-- {0}:END -->)"
 # A curated bullet whose FIRST link is one of our repos, plus the optional `Lang` tag after it.
 ENTRY = re.compile(r"^(\s*- \[\*\*[^\]]*\*\*\]\(https://github\.com/" + OWNER
@@ -55,12 +58,12 @@ def update(readme, repos):
     text = re.sub(r"^\0.*\n", "", text, flags=re.M)
 
     linked = {n.lower() for n in LINK.findall(text)}
-    new = [r for r in newest if r["name"].lower() not in linked | {OWNER}]
+    new = [r for r in newest if r["name"].lower() not in linked | HIDDEN | {OWNER}]
     new_body = "### New\n" + "".join(
         f"- [**{r['name']}**]({r['url']})"
         + (f" `{r['primaryLanguage']['name']}`" if r.get("primaryLanguage") else "")
         + f": {r.get('description') or 'no description yet'}\n" for r in new) if new else ""
-    active = [r for r in newest if r["name"] not in ACTIVE_SKIP][:5]
+    active = [r for r in newest if r["name"] not in ACTIVE_SKIP and r["name"].lower() not in HIDDEN][:5]
     active_body = "".join(f"- [**{r['name']}**]({r['url']}): {r['pushedAt'][:10]}\n" for r in active)
     return fill(fill(text, "NEW", new_body), "ACTIVE", active_body)
 
@@ -77,13 +80,15 @@ def selftest():
               f"- [**filters**]({u}filters) `uBO filters`: no language.\n"
               "<!-- NEW:START -->\n<!-- NEW:END -->\n<!-- ACTIVE:START -->\nold\n<!-- ACTIVE:END -->\n")
     repos = [repo("keep", "C"), repo("fix", "Rust"), repo("filters"),
-             repo("fresh", "Go", "2026-02-01T00:00:00Z", "brand new"), repo(OWNER, "Markdown")]
+             repo("fresh", "Go", "2026-02-01T00:00:00Z", "brand new"), repo(OWNER, "Markdown"),
+             repo("CAPOD", "Kotlin", "2026-03-01T00:00:00Z")]
     out = update(readme, repos)
     assert f"[**keep**]({u}keep) `C/Objective-C`" in out
     assert f"  - [**fix**]({u}fix) `Rust`: wrong tag." in out
     assert "**gone**" not in out
     assert "[**up**](https://github.com/other/up) `C`" in out  # other owner: untouched
     assert "`uBO filters`" in out
+    assert "CAPOD" not in out  # hidden: neither New nor Active
     assert f"<!-- NEW:START -->\n### New\n- [**fresh**]({u}fresh) `Go`: brand new\n<!-- NEW:END -->" in out
     assert "- [**fresh**]" in out.split("ACTIVE:START")[1] and "old" not in out
     assert update(out, repos) == out  # idempotent
