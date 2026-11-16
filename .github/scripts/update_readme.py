@@ -19,7 +19,11 @@ OWNER = "ztancrell"
 MAX_REMOVALS = 3
 ACTIVE_SKIP = {"dotfiles", OWNER}
 # Public forks kept off the profile until they carry my own work (lowercase names).
-HIDDEN = {"capod", "cachyos-pkgbuilds", "scx-manager"}
+HIDDEN = {"capod", "cachyos-pkgbuilds", "scx-manager",
+          "darlingserver", "darling-foundation", "darling-corefoundation", "darling-cocotron",
+          "darling-cfnetwork", "darling-security", "darling-configd", "darling-iokitd",
+          "darling-iokituser", "darling-libxpc", "darling-libkqueue", "darling-compiler-rt",
+          "darling-metal", "indium"}
 BLOCK = r"(<!-- {0}:START -->\n).*?(<!-- {0}:END -->)"
 # A curated bullet whose FIRST link is one of our repos, plus the optional `Lang` tag after it.
 ENTRY = re.compile(r"^(\s*- \[\*\*[^\]]*\*\*\]\(https://github\.com/" + OWNER

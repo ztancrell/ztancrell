@@ -1,15 +1,15 @@
 ![Banner](imgs/channels4_banner.jpg)
 
 # Hi!
-I spend most of my time on Linux, tinkering with the parts most people never touch. Lately that means patching X servers, window managers and Darling (so macOS apps run on Linux), and sending fixes back upstream when they're good enough. I also like writing small tools that make something annoying a little less annoying.
+I spend most of my time on Linux, tinkering with the parts most people never touch. Lately that means patching X servers, window managers and Darling (so macOS apps run on Linux), and sending fixes back upstream when they're good enough. I also do reverse engineering, including fan decompilations that rewrite old PC games in readable C and C++. I also like writing small tools that make something annoying a little less annoying.
 
-AI is a big part of my workflow and many of my recent projects are AI-assisted. My older projects were written by hand, though some were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
+I've written code by hand for years, mostly C++, AutoHotkey and Python. Burnout made that hard to keep up, so now I direct and test while AI writes most of the code. That's how I've kept building, and it's how my recent upstream fixes got made. Some older projects were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
 
 ## Upstream
 **10 merged PRs** across [VibeDarling](https://github.com/VibeDarling) ([darling](https://github.com/VibeDarling/darling/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell), [darling-xnu](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo](https://github.com/VibeDarling/darling-Libinfo/pull/1)) and [darling-lol](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell). Details per repo below.
 
 ## Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?logo=autohotkey&style=flat-square) ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square) ![C](https://img.shields.io/badge/C-grey?logo=c&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?logo=css&style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik00IDVsOCA3LTggN00xMyAxOWg4Ii8+PC9zdmc+&style=flat-square)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?logo=autohotkey&style=flat-square) ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square) ![C](https://img.shields.io/badge/C-grey?logo=c&style=flat-square) ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-blue?logo=apple&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?logo=css&style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik00IDVsOCA3LTggN00xMyAxOWg4Ii8+PC9zdmc+&style=flat-square)
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-orange?logo=linux&style=flat-square) ![Windows](https://img.shields.io/badge/Windows-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDBoMTF2MTFIMHpNMTMgMGgxMXYxMUgxM3pNMCAxM2gxMXYxMUgwek0xMyAxM2gxMXYxMUgxM3oiLz48L3N2Zz4=&style=flat-square) ![macOS](https://img.shields.io/badge/macOS-black?logo=apple&style=flat-square) ![Git](https://img.shields.io/badge/Git-red?logo=git&style=flat-square) ![X11](https://img.shields.io/badge/X11-grey?logo=xdotorg&style=flat-square) ![AI-assisted](https://img.shields.io/badge/AI--assisted-blueviolet?style=flat-square)
 
 
@@ -25,7 +25,7 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**tint2**](https://github.com/ztancrell/tint2) `C`: my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
 - **threatfeed** `Python`: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now.
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell`: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
-- [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell`: a simple $HOME for my dotfiles.
+- [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell`: my dotfiles.
 - [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash`: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
 
 ### Multi-PC & Boot Camp
@@ -39,7 +39,6 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
   - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) `C`: its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
   - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) `C`: its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
   - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) `C`: its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
-  - Other components I've forked: [darlingserver](https://github.com/ztancrell/darlingserver), [darling-foundation](https://github.com/ztancrell/darling-foundation), [darling-corefoundation](https://github.com/ztancrell/darling-corefoundation), [darling-cocotron](https://github.com/ztancrell/darling-cocotron), [darling-cfnetwork](https://github.com/ztancrell/darling-cfnetwork), [darling-security](https://github.com/ztancrell/darling-security), [darling-configd](https://github.com/ztancrell/darling-configd), [darling-iokitd](https://github.com/ztancrell/darling-iokitd), [darling-iokituser](https://github.com/ztancrell/darling-iokituser), [darling-libxpc](https://github.com/ztancrell/darling-libxpc), [darling-libkqueue](https://github.com/ztancrell/darling-libkqueue), [darling-compiler-rt](https://github.com/ztancrell/darling-compiler-rt), [darling-metal](https://github.com/ztancrell/darling-metal), [indium](https://github.com/ztancrell/indium).
   - [**darling-lol**](https://github.com/ztancrell/darling-lol) `Python`: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
 
 ### Reverse engineering
@@ -76,11 +75,11 @@ AI is a big part of my workflow and many of my recent projects are AI-assisted. 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-15
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-16
+- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-16
+- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-16
+- [**xserver**](https://github.com/ztancrell/xserver): 2026-11-16
 - [**synergy-tools**](https://github.com/ztancrell/synergy-tools): 2026-11-15
-- [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-13
-- [**darling**](https://github.com/ztancrell/darling): 2026-11-12
-- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-11
 <!-- ACTIVE:END -->
 
 ## Contact
