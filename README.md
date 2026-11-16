@@ -3,7 +3,7 @@
 # Hi!
 I spend most of my time on Linux, tinkering with the parts most people never touch. Lately that means patching X servers, window managers and Darling (so macOS apps run on Linux), and sending fixes back upstream when they're good enough. I also do reverse engineering, including fan decompilations that rewrite old PC games in readable C and C++. I also like writing small tools that make something annoying a little less annoying.
 
-I've written code by hand for years, mostly C++, AutoHotkey and Python. Burnout made that hard to keep up, so now I direct and test while AI writes most of the code. That's how I've kept building, and it's how my recent upstream fixes got made. Some older projects were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
+I've written code by hand for years, mostly Java, C#, C++, AutoHotkey and Python. Burnout made that hard to keep up, so now I direct and test while AI writes most of the code. That's how I've kept building, and it's how my recent upstream fixes got made. Some older projects were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
 
 ## Upstream
 **10 merged PRs** across [VibeDarling](https://github.com/VibeDarling) ([darling](https://github.com/VibeDarling/darling/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell), [darling-xnu](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo](https://github.com/VibeDarling/darling-Libinfo/pull/1)) and [darling-lol](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell). Details per repo below.
