@@ -55,6 +55,10 @@ I learned to code the way a lot of people do: searching Google and Stack Overflo
 - **vkMercs: Mercenaries 1 Reimagined** `C++` *AI-assisted*: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
+### New
+- [**MS2Godot**](https://github.com/ztancrell/MS2Godot) `C#`: Godot 4 / C# client for MapleStory 2 private servers. Bring your own game data; parity target is the restored MS2Recomp client.
+- [**dns-tls-relay-assistant**](https://github.com/ztancrell/dns-tls-relay-assistant) `Shell`: This script is a user friendly way of running DOWRIGHT's DNS TLS Relay (privacy proxy).
+- [**computercraft-mining-script**](https://github.com/ztancrell/computercraft-mining-script) `Lua`: A Lua script I made for the Minecraft mod ComputerCraft. It allows for 3x3 tunnel mining.
 <!-- NEW:END -->
 
 <details>
@@ -75,11 +79,11 @@ I learned to code the way a lot of people do: searching Google and Stack Overflo
 
 ## Recently active
 <!-- ACTIVE:START -->
+- [**MS2Godot**](https://github.com/ztancrell/MS2Godot): 2026-11-17
+- [**dns-tls-relay-assistant**](https://github.com/ztancrell/dns-tls-relay-assistant): 2026-11-17
+- [**computercraft-mining-script**](https://github.com/ztancrell/computercraft-mining-script): 2026-11-17
 - [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-17
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-16
-- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-16
-- [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput): 2026-11-16
-- [**xserver**](https://github.com/ztancrell/xserver): 2026-11-16
 <!-- ACTIVE:END -->
 
 ## Contact
