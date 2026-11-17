@@ -3,7 +3,7 @@
 # Hi!
 I spend most of my time on Linux, tinkering with the parts most people never touch. Lately that means patching X servers, window managers and Darling (so macOS apps run on Linux), and sending fixes back upstream when they're good enough. I also do reverse engineering, including fan decompilations that rewrite old PC games in readable C and C++. I also like writing small tools that make something annoying a little less annoying.
 
-I've written code by hand for years, mostly Java, C#, C++, AutoHotkey and Python. Burnout made that hard to keep up, so now I direct and test while AI writes most of the code. That's how I've kept building, and it's how my recent upstream fixes got made. Some older projects were later touched up with AI. I don't hide this. Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
+I've written code by hand for years, mostly Java, C#, C++, AutoHotkey and Python. Burnout made that hard to keep up, so now I direct and test while AI writes most of the code. That's how I've kept building, and it's how my recent upstream fixes got made. I don't hide this: each project below is tagged *by hand*, *AI-assisted*, or *by hand, AI-improved* (written by hand, later improved with AI). Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
 
 ## Upstream
 **10 merged PRs** across [VibeDarling](https://github.com/VibeDarling) ([darling](https://github.com/VibeDarling/darling/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell), [darling-xnu](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo](https://github.com/VibeDarling/darling-Libinfo/pull/1)) and [darling-lol](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell). Details per repo below.
@@ -16,43 +16,43 @@ I've written code by hand for years, mostly Java, C#, C++, AutoHotkey and Python
 ## Projects
 
 ### Linux & desktop
-- [**homestead**](https://github.com/ztancrell/homestead) `C`: my patched X11 desktop stack, built from source and running daily on CachyOS.
-  - [**xserver**](https://github.com/ztancrell/xserver) `C`: my AI-assisted fork of the [XLibre](https://github.com/X11Libre/xserver) X server.
-    - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput) `C`: its libinput input driver.
-    - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu) `C`: its AMDGPU video driver.
-  - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) `C`: an AI-assisted Openbox fork focused on stability, compatibility and hardening.
-  - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) `C`: my fork of a fast compositor for X11.
-  - [**tint2**](https://github.com/ztancrell/tint2) `C`: my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
-- **threatfeed** `Python`: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now.
-- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell`: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
-- [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell`: my dotfiles.
-- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash`: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
+- [**homestead**](https://github.com/ztancrell/homestead) `C` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on CachyOS.
+  - [**xserver**](https://github.com/ztancrell/xserver) `C` *AI-assisted*: my fork of the [XLibre](https://github.com/X11Libre/xserver) X server.
+    - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput) `C` *AI-assisted*: its libinput input driver.
+    - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu) `C` *AI-assisted*: its AMDGPU video driver.
+  - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) `C` *AI-assisted*: an Openbox fork focused on stability, compatibility and hardening.
+  - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) `C` *AI-assisted*: my fork of a fast compositor for X11.
+  - [**tint2**](https://github.com/ztancrell/tint2) `C` *AI-assisted*: my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
+- **threatfeed** `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now.
+- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell` *AI-assisted*: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
+- [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell` *AI-assisted*: my dotfiles.
+- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash` *by hand, AI-improved*: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
 
 ### Multi-PC & Boot Camp
-- [**synergy-tools**](https://github.com/ztancrell/synergy-tools) `Rust`: tools that fill gaps in [Synergy 3](https://symless.com/synergy), which shares keyboard and mouse but not audio or files. Pairing is a one-time 8-digit code, and traffic is encrypted.
-- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs) `Rust/C`: a small Windows game booster I wrote for Battlefield 6 under Boot Camp. `boost` applies well-known tweaks, `restore` undoes them, and each tweak is explained so you can try it by hand.
-- [**The 70-Watt Ceiling**](https://ztancrell.github.io/mbp16-power-findings/) `HTML`: findings on why a 2019 16" MacBook Pro under Boot Camp cuts CPU and GPU power a few minutes into a game, and what fixes it. [Source](https://github.com/ztancrell/mbp16-power-findings).
-- [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python`: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
+- [**synergy-tools**](https://github.com/ztancrell/synergy-tools) `Rust` *AI-assisted*: tools that fill gaps in [Synergy 3](https://symless.com/synergy), which shares keyboard and mouse but not audio or files. Pairing is a one-time 8-digit code, and traffic is encrypted.
+- [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs) `Rust/C` *AI-assisted*: a small Windows game booster for Battlefield 6 under Boot Camp. `boost` applies well-known tweaks, `restore` undoes them, and each tweak is explained so you can try it by hand.
+- [**The 70-Watt Ceiling**](https://ztancrell.github.io/mbp16-power-findings/) `HTML` *AI-assisted*: findings on why a 2019 16" MacBook Pro under Boot Camp cuts CPU and GPU power a few minutes into a game, and what fixes it. [Source](https://github.com/ztancrell/mbp16-power-findings).
+- [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python` *by hand, AI-improved*: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
 
 ### macOS on Linux (Darling)
-- [**darling**](https://github.com/ztancrell/darling) `C/Objective-C`: my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250).
-  - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) `C`: its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
-  - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) `C`: its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
-  - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) `C`: its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
-  - [**darling-lol**](https://github.com/ztancrell/darling-lol) `Python`: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
+- [**darling**](https://github.com/ztancrell/darling) `C/Objective-C` *AI-assisted*: my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250).
+  - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) `C` *AI-assisted*: its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
+  - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) `C` *AI-assisted*: its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
+  - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) `C` *AI-assisted*: its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
+  - [**darling-lol**](https://github.com/ztancrell/darling-lol) `Python` *AI-assisted*: fork of [lucannez64/darling-lol](https://github.com/lucannez64/darling-lol) for running the macOS League client on Linux. [5 merged PRs](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell) upstream.
 
 ### Reverse engineering
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java`: replacing [Ghidra](https://github.com/NationalSecurityAgency/ghidra)'s Java codebase with Rust, piece by piece, as a headless reverse engineering tool. Early days: most of the code is still upstream Java.
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs) `Java` *AI-assisted*: replacing [Ghidra](https://github.com/NationalSecurityAgency/ghidra)'s Java codebase with Rust, piece by piece, as a headless reverse engineering tool. Early days: most of the code is still upstream Java.
 
 ### Browser & privacy
-- [**AuroraFX**](https://github.com/ztancrell/AuroraFX) `CSS`: a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
-- [**filterlists**](https://github.com/ztancrell/filterlists) `uBO filters`: uBlock Origin filters that whitelist ads on DuckDuckGo, Startpage and Swisscows to support them.
+- [**AuroraFX**](https://github.com/ztancrell/AuroraFX) `CSS` *by hand, AI-improved*: a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
+- [**filterlists**](https://github.com/ztancrell/filterlists) `uBO filters` *by hand, AI-improved*: uBlock Origin filters that whitelist ads on DuckDuckGo, Startpage and Swisscows to support them.
 
 ### Game decomps, rewrites & ports
 <sub>Private for now. Each needs your own copy of the game.</sub>
-- **MX vs ATV Reflex: Retuned** `C`: fan remaster patch for MX vs ATV Reflex (PC) that rewrites the game code in readable C, hooked in through `dinput8.dll`.
-- **Mercenaries 2: Rearmed** `C++`: fan decompilation of Mercenaries 2: World in Flames (PC), rewritten in readable C++ and loaded as a mod runtime plugin.
-- **vkMercs: Mercenaries 1 Reimagined** `C++`: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
+- **MX vs ATV Reflex: Retuned** `C` *AI-assisted*: fan remaster patch for MX vs ATV Reflex (PC) that rewrites the game code in readable C, hooked in through `dinput8.dll`.
+- **Mercenaries 2: Rearmed** `C++` *AI-assisted*: fan decompilation of Mercenaries 2: World in Flames (PC), rewritten in readable C++ and loaded as a mod runtime plugin.
+- **vkMercs: Mercenaries 1 Reimagined** `C++` *AI-assisted*: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
 <!-- NEW:END -->
@@ -61,15 +61,15 @@ I've written code by hand for years, mostly Java, C#, C++, AutoHotkey and Python
 <summary><b>Older projects</b></summary>
 
 ### Windows & gaming
-- [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) `PowerShell`: removes [enbseries](http://enbdev.com/download.html) files from a Fallout: New Vegas install. 🌟 3k unique downloads!
-- [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) `AutoHotkey`: gives Model M keyboards a Windows key.
-- [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) `AutoHotkey`: scripts for automating Minecraft.
-- [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) `AutoHotkey`: automated gear collection for ShellShock Live.
+- [**FNV ENB Cleaner**](https://www.nexusmods.com/newvegas/mods/82106) `PowerShell` *by hand*: removes [enbseries](http://enbdev.com/download.html) files from a Fallout: New Vegas install. 🌟 3k unique downloads!
+- [**ModelM-WinKeyFix**](https://github.com/ztancrell/ModelM-WinKeyFix) `AutoHotkey` *by hand, AI-improved*: gives Model M keyboards a Windows key.
+- [**MinecraftAHK**](https://github.com/ztancrell/MinecraftAHK) `AutoHotkey` *by hand, AI-improved*: scripts for automating Minecraft.
+- [**SSLGearGrabber**](https://github.com/ztancrell/SSLGearGrabber) `AutoHotkey` *by hand, AI-improved*: automated gear collection for ShellShock Live.
 
 ### Fun & old projects
-- [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) `AutoHotkey`: prevents AFK status in GTA Online.
-- [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) `C++`: a remake of my old troll app that pretends to generate Steam gift codes.
-- [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++`: a simple, educational console keylogger with a menu.
+- [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) `AutoHotkey` *by hand, AI-improved*: prevents AFK status in GTA Online.
+- [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) `C++` *by hand, AI-improved*: a remake of my old troll app that pretends to generate Steam gift codes.
+- [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++` *by hand, AI-improved*: a simple, educational console keylogger with a menu.
 
 </details>
 
