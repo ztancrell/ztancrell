@@ -75,7 +75,7 @@ I learned to code the way a lot of people do: searching Google and Stack Overflo
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-16
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-17
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-16
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-16
 - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput): 2026-11-16
