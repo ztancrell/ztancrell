@@ -26,13 +26,13 @@ I learned to code the way a lot of people do: searching Google and Stack Overflo
 - **threatfeed** `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now.
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell` *AI-assisted*: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
 - [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell` *AI-assisted*: my dotfiles.
-- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash` *by hand, AI-improved*: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
+- [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash` *AI-assisted*: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
 
 ### Multi-PC & Boot Camp
 - [**synergy-tools**](https://github.com/ztancrell/synergy-tools) `Rust` *AI-assisted*: tools that fill gaps in [Synergy 3](https://symless.com/synergy), which shares keyboard and mouse but not audio or files. Pairing is a one-time 8-digit code, and traffic is encrypted.
 - [**gamebooster-rs**](https://github.com/ztancrell/gamebooster-rs) `Rust/C` *AI-assisted*: a small Windows game booster for Battlefield 6 under Boot Camp. `boost` applies well-known tweaks, `restore` undoes them, and each tweak is explained so you can try it by hand.
 - [**The 70-Watt Ceiling**](https://ztancrell.github.io/mbp16-power-findings/) `HTML` *AI-assisted*: findings on why a 2019 16" MacBook Pro under Boot Camp cuts CPU and GPU power a few minutes into a game, and what fixes it. [Source](https://github.com/ztancrell/mbp16-power-findings).
-- [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python` *by hand, AI-improved*: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
+- [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python` *AI-assisted*: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
 
 ### macOS on Linux (Darling)
 - [**darling**](https://github.com/ztancrell/darling) `C/Objective-C` *AI-assisted*: my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250).
