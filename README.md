@@ -47,6 +47,7 @@ I learned to code the way a lot of people do: searching Google and Stack Overflo
 ### Browser & privacy
 - [**AuroraFX**](https://github.com/ztancrell/AuroraFX) `CSS` *by hand, AI-improved*: a customChrome.css mod for the [zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) Firefox theme.
 - [**filterlists**](https://github.com/ztancrell/filterlists) `uBO filters` *by hand, AI-improved*: uBlock Origin filters that whitelist ads on DuckDuckGo, Startpage and Swisscows to support them.
+- [**youtube-minimal**](https://github.com/ztancrell/youtube-minimal) `uBO filters` *AI-assisted*: a uBlock Origin filter list that strips YouTube down to a minimal, lightweight page.
 
 ### Game decomps, rewrites & ports
 <sub>Private for now. Each needs your own copy of the game.</sub>
