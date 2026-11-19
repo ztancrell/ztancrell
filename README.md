@@ -2,6 +2,10 @@
 
 # Zach Tancrell
 
+[![Open to work](https://img.shields.io/badge/Open_to_work-brightgreen?style=flat-square)](#contact)
+
+Open to entry-level roles in cybersecurity, Linux administration and IT support.
+
 I spend most of my time on Linux, tinkering with the parts most people never touch: X servers, window managers and Darling (macOS apps on Linux). I also do reverse engineering, including fan decompilations that rewrite old PC games in readable C and C++. I'm heading into cybersecurity and studying for CompTIA Security+.
 
 I use AI as a tool, not something I trust blindly. I decide what to build, then test what it produces and run it on my own machines until it holds up. If it fails my checks, it doesn't ship. That's how my recent upstream fixes got merged. Every project below is tagged *by hand*, *AI-assisted* or *by hand, AI-improved*, so you can see which is which.
