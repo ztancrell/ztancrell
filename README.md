@@ -74,8 +74,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ### Fun & old projects
 - [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) `AutoHotkey` *by hand, AI-improved*: prevents AFK status in GTA Online.
-- [**FreeSteamCodeGenerator_troll**](https://github.com/ztancrell/FreeSteamCodeGenerator_troll) `C++` *by hand, AI-improved*: a remake of my old troll app that pretends to generate Steam gift codes.
-- [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++` *by hand, AI-improved*: a simple, educational console keylogger with a menu.
+- [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++` *by hand, AI-improved*: an educational console keylogger I wrote to learn how keystroke capture works, using the Windows API on Windows and raw terminal mode on Linux and macOS. Its README covers legal, consent-based use.
 
 </details>
 
