@@ -28,8 +28,9 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
   - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) `C` *AI-assisted*: an Openbox fork focused on stability, compatibility and hardening.
   - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) `C` *AI-assisted*: my fork of a fast compositor for X11.
   - [**tint2**](https://github.com/ztancrell/tint2) `C` *AI-assisted*: my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
-- **threatfeed** `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist. Private for now.
+- [**threatfeed**](https://github.com/ztancrell/threatfeed) `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist.
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell` *AI-assisted*: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
+- [**zpt-artix**](https://github.com/ztancrell/zpt-artix) `Shell` *AI-assisted*: my own Artix (OpenRC) setup: a local pacman repo with CachyOS gaming improvements, OpenRC scripts and my homestead X stack.
 - [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell` *AI-assisted*: my dotfiles.
 - [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash` *AI-assisted*: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
 - [**dns-tls-relay-assistant**](https://github.com/ztancrell/dns-tls-relay-assistant) `Shell` *by hand, AI-improved*: a script that makes DOWRIGHTTV's DNS-TLS Relay (a privacy proxy) easy to set up and run.
@@ -82,11 +83,11 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ## Recently active
 <!-- ACTIVE:START -->
+- [**threatfeed**](https://github.com/ztancrell/threatfeed): 2026-11-19
+- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-19
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-18
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-18
 - [**xserver**](https://github.com/ztancrell/xserver): 2026-11-18
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-18
-- [**tint2**](https://github.com/ztancrell/tint2): 2026-11-18
 <!-- ACTIVE:END -->
 
 ## Contact
