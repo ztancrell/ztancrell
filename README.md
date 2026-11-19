@@ -28,6 +28,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy) `Shell` *AI-assisted*: my own CachyOS setup (not a distro) for my desktop and a 2019 16" MacBook Pro: a local pacman repo with my homestead X stack and T2 Mac packages.
 - [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell` *AI-assisted*: my dotfiles.
 - [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash` *AI-assisted*: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
+- [**dns-tls-relay-assistant**](https://github.com/ztancrell/dns-tls-relay-assistant) `Shell` *by hand, AI-improved*: a script that makes DOWRIGHTTV's DNS-TLS Relay (a privacy proxy) easy to set up and run.
 
 ### Multi-PC & Boot Camp
 - [**synergy-tools**](https://github.com/ztancrell/synergy-tools) `Rust` *AI-assisted*: adds what [Synergy 3](https://symless.com/synergy) lacks: streams audio from one PC to another and sends files between them. Pairing is a one-time 8-digit code, and traffic is encrypted.
@@ -57,9 +58,6 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 - **vkMercs: Mercenaries 1 Reimagined** `C++` *AI-assisted*: unofficial PC port of the Xbox/PS2-only Mercenaries: Playground of Destruction, with a new Vulkan renderer and expanded sandbox.
 
 <!-- NEW:START -->
-### New
-- [**dns-tls-relay-assistant**](https://github.com/ztancrell/dns-tls-relay-assistant) `Shell`: This script is a user friendly way of running DOWRIGHT's DNS TLS Relay (privacy proxy).
-- [**computercraft-mining-script**](https://github.com/ztancrell/computercraft-mining-script) `Lua`: A Lua script I made for the Minecraft mod ComputerCraft. It allows for 3x3 tunnel mining.
 <!-- NEW:END -->
 
 <details>
@@ -73,6 +71,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ### Fun & old projects
 - [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) `AutoHotkey` *by hand, AI-improved*: prevents AFK status in GTA Online.
+- [**computercraft-mining-script**](https://github.com/ztancrell/computercraft-mining-script) `Lua` *AI-assisted*: a ComputerCraft script that has a Minecraft turtle mine 3x3 tunnels.
 - [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++` *by hand, AI-improved*: an educational console keylogger I wrote to learn how keystroke capture works, using the Windows API on Windows and raw terminal mode on Linux and macOS. Its README covers legal, consent-based use.
 
 </details>
