@@ -1,9 +1,9 @@
 ![Banner](imgs/channels4_banner.jpg)
 
 # Hi!
-I spend most of my time on Linux, tinkering with the parts most people never touch. Lately that means patching X servers, window managers and Darling (so macOS apps run on Linux), and sending fixes back upstream when they're good enough. I also do reverse engineering, including fan decompilations that rewrite old PC games in readable C and C++. I also like writing small tools that make something annoying a little less annoying.
+I spend most of my time on Linux, tinkering with the parts most people never touch: X servers, window managers and Darling (macOS apps on Linux). I also do reverse engineering, including fan decompilations that rewrite old PC games in readable C and C++. I'm heading into cybersecurity and studying for CompTIA Security+.
 
-I learned to code the way a lot of people do: searching Google and Stack Overflow, adapting answers, and debugging until things worked. That's how I built my older projects in C++, AutoHotkey and Python, plus some Java and C# that's no longer public. Burnout made that hard to keep up, so now I direct and test while AI writes most of the code. That's how I've kept building, and it's how my recent upstream fixes got made. I don't hide this: each project below is tagged *by hand*, *AI-assisted*, or *by hand, AI-improved* (written by hand, later improved with AI). Right now my go-to is Claude Opus 5.5. I think AI can be used for good.
+I use AI as a tool, not something I trust blindly. I decide what to build, then test what it produces and run it on my own machines until it holds up. If it fails my checks, it doesn't ship. That's how my recent upstream fixes got merged. Every project below is tagged *by hand*, *AI-assisted* or *by hand, AI-improved*, so you can see which is which.
 
 ## Upstream
 **10 merged PRs** across [VibeDarling](https://github.com/VibeDarling) ([darling](https://github.com/VibeDarling/darling/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell), [darling-xnu](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo](https://github.com/VibeDarling/darling-Libinfo/pull/1)) and [darling-lol](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell). Details per repo below.
