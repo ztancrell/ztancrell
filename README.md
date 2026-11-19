@@ -58,7 +58,6 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 <!-- NEW:START -->
 ### New
-- [**MS2Godot**](https://github.com/ztancrell/MS2Godot) `C#`: Godot 4 / C# client for MapleStory 2 private servers. Bring your own game data; parity target is the restored MS2Recomp client.
 - [**dns-tls-relay-assistant**](https://github.com/ztancrell/dns-tls-relay-assistant) `Shell`: This script is a user friendly way of running DOWRIGHT's DNS TLS Relay (privacy proxy).
 - [**computercraft-mining-script**](https://github.com/ztancrell/computercraft-mining-script) `Lua`: A Lua script I made for the Minecraft mod ComputerCraft. It allows for 3x3 tunnel mining.
 <!-- NEW:END -->
