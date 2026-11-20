@@ -21,7 +21,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 ## Projects
 
 ### Linux & desktop
-- [**homestead**](https://github.com/ztancrell/homestead) `C` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on CachyOS.
+- [**homestead**](https://github.com/ztancrell/homestead) `Perl` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on CachyOS.
   - [**xserver**](https://github.com/ztancrell/xserver) `C` *AI-assisted*: my fork of the [XLibre](https://github.com/X11Libre/xserver) X server.
     - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput) `C` *AI-assisted*: its libinput input driver.
     - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu) `C` *AI-assisted*: its AMDGPU video driver.
@@ -83,11 +83,11 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ## Recently active
 <!-- ACTIVE:START -->
+- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-20
+- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-20
 - [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-19
-- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-19
 - [**threatfeed**](https://github.com/ztancrell/threatfeed): 2026-11-19
 - [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-18
-- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-18
 <!-- ACTIVE:END -->
 
 ## Contact
