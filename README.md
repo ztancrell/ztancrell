@@ -83,11 +83,11 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ## Recently active
 <!-- ACTIVE:START -->
+- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-20
 - [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-20
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-20
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-19
+- [**dns-tls-relay**](https://github.com/ztancrell/dns-tls-relay): 2026-11-20
 - [**threatfeed**](https://github.com/ztancrell/threatfeed): 2026-11-19
-- [**zpt-cachy**](https://github.com/ztancrell/zpt-cachy): 2026-11-18
 <!-- ACTIVE:END -->
 
 ## Contact
