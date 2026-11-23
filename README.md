@@ -77,7 +77,6 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 ### Fun & old projects
 - [**NoAfkGTA**](https://github.com/ztancrell/NoAfkGTA) `AutoHotkey` *by hand, AI-improved*: prevents AFK status in GTA Online.
 - [**computercraft-mining-script**](https://github.com/ztancrell/computercraft-mining-script) `Lua` *AI-assisted*: a ComputerCraft script that has a Minecraft turtle mine 3x3 tunnels.
-- [**BasicKeylogger**](https://github.com/ztancrell/BasicKeylogger) `C++` *by hand, AI-improved*: an educational console keylogger I wrote to learn how keystroke capture works, using the Windows API on Windows and raw terminal mode on Linux and macOS. Its README covers legal, consent-based use.
 
 </details>
 
