@@ -11,7 +11,7 @@ I spend most of my time on Linux, tinkering with the parts most people never tou
 I use AI as a tool, not something I trust blindly. I decide what to build, then test what it produces and run it on my own machines until it holds up. If it fails my checks, it doesn't ship. That's how my recent upstream fixes got merged. Every project below is tagged *by hand*, *AI-assisted* or *by hand, AI-improved*, so you can see which is which.
 
 ## Upstream
-**11 merged PRs** across [XLibre](https://github.com/X11Libre/xserver/pull/4023), [VibeDarling](https://github.com/VibeDarling) ([darling](https://github.com/VibeDarling/darling/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell), [darling-xnu](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo](https://github.com/VibeDarling/darling-Libinfo/pull/1)) and [darling-lol](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell). Details per repo below.
+**10 merged PRs**, plus one sync merge, across [XLibre](https://github.com/X11Libre/xserver/pull/4023), [VibeDarling](https://github.com/VibeDarling), an active fork of [Darling](https://github.com/darlinghq/darling) ([darling](https://github.com/VibeDarling/darling/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell), [darling-xnu](https://github.com/VibeDarling/darling-xnu/pull/62), [darling-Libsystem](https://github.com/VibeDarling/darling-Libsystem/pull/3), [darling-Libinfo](https://github.com/VibeDarling/darling-Libinfo/pull/1)) and [darling-lol](https://github.com/lucannez64/darling-lol/pulls?q=is%3Apr+is%3Amerged+author%3Aztancrell). Details per repo below.
 
 ## Skills
 - **Built with:** ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?logo=autohotkey&style=flat-square) ![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=flat-square) ![C](https://img.shields.io/badge/C-grey?logo=c&style=flat-square) ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-blue?logo=apple&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-orange?logo=css&style=flat-square) ![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik00IDVsOCA3LTggN00xMyAxOWg4Ii8+PC9zdmc+&style=flat-square)
@@ -19,6 +19,9 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 
 ## Projects
+
+### Security
+- [**threatfeed**](https://github.com/ztancrell/threatfeed) `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist.
 
 ### Linux & desktop
 - [**homestead**](https://github.com/ztancrell/homestead) `Perl` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on CachyOS.
@@ -28,7 +31,6 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
   - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork) `C` *AI-assisted*: an Openbox fork focused on stability, compatibility and hardening.
   - [**fastcompmgr**](https://github.com/ztancrell/fastcompmgr) `C` *AI-assisted*: my fork of a fast compositor for X11.
   - [**tint2**](https://github.com/ztancrell/tint2) `C` *AI-assisted*: my spin of the [tint2](https://gitlab.com/o9000/tint2) panel.
-- [**threatfeed**](https://github.com/ztancrell/threatfeed) `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist.
 - [**zpt-artix**](https://github.com/ztancrell/zpt-artix) `Shell` *AI-assisted*: my own Artix (OpenRC) setup: a local pacman repo with CachyOS gaming improvements, OpenRC scripts and my homestead X stack.
 - [**dotfiles**](https://github.com/ztancrell/dotfiles) `Shell` *AI-assisted*: my dotfiles.
 - [**DNS-TLS Relay**](https://github.com/ztancrell/dns-tls-relay) `Python/Bash` *AI-assisted*: a fork of [DOWRIGHTTV's DNS-TLS Relay](https://github.com/DOWRIGHTTV/dns-tls-relay) that adds color output and a setup script.
@@ -41,7 +43,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 - [**project-falcon**](https://github.com/ztancrell/project-falcon) `Python` *AI-assisted*: my fork of [icywire/project-falcon](https://github.com/icywire/project-falcon), up-to-date AMD Radeon drivers for Macs.
 
 ### macOS on Linux (Darling)
-- [**darling**](https://github.com/ztancrell/darling) `C/Objective-C` *AI-assisted*: my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250).
+- [**darling**](https://github.com/ztancrell/darling) `C/Objective-C` *AI-assisted*: my fork of [VibeDarling](https://github.com/VibeDarling)'s Darwin/macOS emulation layer. Merged upstream: [#1093](https://github.com/VibeDarling/darling/pull/1093), [#1250](https://github.com/VibeDarling/darling/pull/1250) (a sync merge from darlinghq/darling).
   - [**darling-xnu**](https://github.com/ztancrell/darling-xnu) `C` *AI-assisted*: its kernel layer. Merged upstream: [#62](https://github.com/VibeDarling/darling-xnu/pull/62).
   - [**darling-Libsystem**](https://github.com/ztancrell/darling-Libsystem) `C` *AI-assisted*: its system library. Merged upstream: [#3](https://github.com/VibeDarling/darling-Libsystem/pull/3).
   - [**darling-Libinfo**](https://github.com/ztancrell/darling-Libinfo) `C` *AI-assisted*: its user and DNS lookup library. Merged upstream: [#1](https://github.com/VibeDarling/darling-Libinfo/pull/1).
@@ -91,14 +93,14 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 ## Contact
 <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#122;&#x74;&#97;&#110;&#x63;&#x72;&#x65;&#x6c;&#108;&#x40;&#116;&#x75;&#x74;&#x61;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#122;&#116;&#x61;&#110;&#x63;&#x72;&#x65;&#x6c;&#x6c;&#x40;&#x74;&#117;&#x74;&#x61;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a>
 
-## Crypto
-[View my crypto addresses](CRYPTO.md)
-
 ---
 
 ## License
 
 The contents of this profile repository are released under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE). Each project has its own license; see its repository.
+
+## Crypto
+[View my crypto addresses](CRYPTO.md)
 
 ---
 
