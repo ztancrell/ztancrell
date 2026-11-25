@@ -20,9 +20,6 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ## Projects
 
-### Security
-- [**threatfeed**](https://github.com/ztancrell/threatfeed) `Python` *AI-assisted*: an hourly personal threat feed for my Arch box. It pulls security news, CISA KEV and the Arch security tracker into a daily digest ranked by risk, notifies only on things I actually run, and builds a merged IP blocklist.
-
 ### Linux & desktop
 - [**homestead**](https://github.com/ztancrell/homestead) `Perl` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on CachyOS.
   - [**xserver**](https://github.com/ztancrell/xserver) `C` *AI-assisted*: my fork of the [XLibre](https://github.com/X11Libre/xserver) X server. Merged upstream: [#4023](https://github.com/X11Libre/xserver/pull/4023).
@@ -87,7 +84,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 - [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-25
 - [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-24
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-24
-- [**threatfeed**](https://github.com/ztancrell/threatfeed): 2026-11-23
+- [**dns-tls-relay**](https://github.com/ztancrell/dns-tls-relay): 2026-11-20
 <!-- ACTIVE:END -->
 
 ## Contact
