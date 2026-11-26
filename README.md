@@ -80,11 +80,11 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**darling-lol**](https://github.com/ztancrell/darling-lol): 2026-11-25
-- [**ghidra-rs**](https://github.com/ztancrell/ghidra-rs): 2026-11-25
-- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-24
-- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-24
-- [**dns-tls-relay**](https://github.com/ztancrell/dns-tls-relay): 2026-11-20
+- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-26
+- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-26
+- [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput): 2026-11-26
+- [**xserver**](https://github.com/ztancrell/xserver): 2026-11-26
+- [**mbp16-power-findings**](https://github.com/ztancrell/mbp16-power-findings): 2026-11-26
 <!-- ACTIVE:END -->
 
 ## Contact
