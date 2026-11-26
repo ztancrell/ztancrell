@@ -82,9 +82,9 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 <!-- ACTIVE:START -->
 - [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-26
 - [**homestead**](https://github.com/ztancrell/homestead): 2026-11-26
-- [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput): 2026-11-26
+- [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork): 2026-11-26
+- [**tint2**](https://github.com/ztancrell/tint2): 2026-11-26
 - [**xserver**](https://github.com/ztancrell/xserver): 2026-11-26
-- [**mbp16-power-findings**](https://github.com/ztancrell/mbp16-power-findings): 2026-11-26
 <!-- ACTIVE:END -->
 
 ## Contact
