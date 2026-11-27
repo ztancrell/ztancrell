@@ -80,11 +80,11 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 
 ## Recently active
 <!-- ACTIVE:START -->
-- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-26
-- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-26
+- [**zpt-artix**](https://github.com/ztancrell/zpt-artix): 2026-11-27
+- [**homestead**](https://github.com/ztancrell/homestead): 2026-11-27
+- [**xserver**](https://github.com/ztancrell/xserver): 2026-11-27
 - [**openbox-patchwork**](https://github.com/ztancrell/openbox-patchwork): 2026-11-26
 - [**tint2**](https://github.com/ztancrell/tint2): 2026-11-26
-- [**xserver**](https://github.com/ztancrell/xserver): 2026-11-26
 <!-- ACTIVE:END -->
 
 ## Contact
