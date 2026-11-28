@@ -21,7 +21,7 @@ I use AI as a tool, not something I trust blindly. I decide what to build, then 
 ## Projects
 
 ### Linux & desktop
-- [**homestead**](https://github.com/ztancrell/homestead) `Perl` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on CachyOS.
+- [**homestead**](https://github.com/ztancrell/homestead) `Perl` *AI-assisted*: my patched X11 desktop stack, built from source and running daily on Artix Linux (OpenRC).
   - [**xserver**](https://github.com/ztancrell/xserver) `C` *AI-assisted*: my fork of the [XLibre](https://github.com/X11Libre/xserver) X server. Merged upstream: [#4023](https://github.com/X11Libre/xserver/pull/4023), [#4229](https://github.com/X11Libre/xserver/pull/4229).
     - [**xf86-input-libinput**](https://github.com/ztancrell/xf86-input-libinput) `C` *AI-assisted*: its libinput input driver.
     - [**xf86-video-amdgpu**](https://github.com/ztancrell/xf86-video-amdgpu) `C` *AI-assisted*: its AMDGPU video driver.
